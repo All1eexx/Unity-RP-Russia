@@ -1,0 +1,296 @@
+****Ifconditions:****
+if conditions (<, >, =, !=):
+time=0-360/day/night
+weather=clear/rain
+radius=amount
+chat=lastSentChat
+team=playerTeam
+mask=0-14
+isinvehicle=true/false
+isfemale=true/false
+issitting=true/false
+isragdoll=true/false
+ispointing=true/false
+isaiming=true/false
+iscrouching=true/false
+isdrunk=true/false
+playerheight=amount
+playerrotation=0-360
+emote=emotename
+holdingphone=true/false
+role=police
+health=0-100
+weapon=0-4
+cash=amount
+kills=amount
+dial=lastCalledNum
+speed=amount
+interactionmenuclick=lastClickedButton
+inventory:item=value
+ishost=true/false
+playercount=amount
+solidercount=amount
+zombiecount=amount
+vehiclecount=amount
+objectname=name
+cargoname=name
+
+****Colors:****
+<color=blue>TEXT</color>
+
+****Alpha:****
+<alpha=#FF>TEXT
+
+****Alignments:****
+<Align=left>TEXT
+<align=right>TEXT
+
+****Size:****
+<size=0-999>TEXT</size>
+
+****Fonts:****
+<font="fontName">TEXT
+~~Fonts~~
+"Pricedown"
+"Crayon"
+"Pacifico"
+"Murderer"
+
+****Emoji:****
+<sprite="Discord" index=0-15> or <sprite=0-15>
+
+****stock sounds:****
+
+****Musics:****
+Beyond
+Fall
+OminousWind
+TheWasteland
+WelcomeToChaos
+ElevatorMusic
+CinematicMusic
+DeadWalking
+MedievalWitcher
+MorganaMirage
+Mysterious
+Mysterious1
+Orchestral
+SpyMusic
+TheChase
+
+****Effects:****
+you can put link on the blackboard and stream image/video</color>
+Cheer
+MechanicalMovement1-2
+GarageDoor
+TimeStop
+Fart
+Horror1-5
+Meme1-17
+Night
+Notif1-5
+People
+PoliceRadio
+Siren
+WhiteNoise
+
+****Instruments:****
+PianoC5
+BassAnalog
+FatSaw
+Kick
+Kick808
+Snare
+Snare808
+Hat
+Hat808
+Crash808
+Crash909
+Clap
+Clap808
+ClapPap 
+ 
+****Modes:****
+enter - when you touch the box (command will get executed once)
+exit - when you exit the box (once) 
+stay - when you touch the box (every frame) 
+loop - all the time (every frame)
+solid - when you shoot the box
+onclick - when you click the box 
+
+****MAIN:****
+
+****player:****
+player{trap} - trap player/car in the box boundaries 
+player{damage*0-100} - damage the player in the box boundaries 
+player{heal*0-100} - heal the player in the box boundaries 
+player{invincible*true/false} - make player invincible (except from bullets) 
+player{respawn} - respawn player 
+player{respawntimer*time} - change respawn time 
+player{nophone} - doesn't let player to access phone 
+player{cammode*0/1/2/3} - change camera mode 0/1/2 TPP 3 FPP 
+player{race} - starts race if on vehicle 
+player{race*foot} - starts race if on foot 
+player{emote*name} - play the emote 
+player{team*red/blue/free/custom} - set player team 
+player{role*rolename} - set player role 
+player{mask*0-14} - change player mask
+
+****vehicle:****
+vehicle{paint*r,g,b} -set the vehicle color (RGB = Red Green Blue) 
+vehicle{damage*0-1000} - set the vehicle damage (use +/- to add/subtract damage e.g. damage*+50) 
+vehicle{fuel*0-1000} - set the vehicle fuel        (use +/- to add/subtract fuel e.g. fuel*+50) 
+vehicle{alwaysdrift*true/false} - set the vehicle mode to always drift 
+vehicle{arcadedriving*true/false} - set vehicle driving mode (default true)
+vehicle{downforce*0-100} - set vehicle downwards gravity force on each wheel 
+vehicle{headlights*on/off} - turn the vehicle lights on/off 
+vehicle{lock*true/false} - lock vehicle 
+vehicle{alarm*time} - turn on alarm 
+vehicle{repair} - repair the vehicle 
+
+****inventory:****
+ inventory{add*item*value} - add item to inventory 
+inventory{del*item} - delete item from inventory 
+inventory{del*item*value} - delete item's value from inventory 
+inventory{add*water*+1} - example 
+inventory{add/del*house*cool_house} - example 
+
+****NPC:****
+npckill{} - kills the npc 
+npcanimation{animName} - play npc animation 
+npcanimation{animName*0.5*true/false} - play npc animation with transition speed and should effect npc position 
+npcposition{x,y,z} - teleport npc 
+npcrotation{x,y,z} - rotate npc 
+
+****teleport:****
+teleport{x,y,z} - teleport to the coordinates 
+teleport{x,y,z*delay} - teleport to the coordinates after amount of time 
+teleport{x,y,z*delay*true} - teleport to the coordinates after amount of time instantly (without screen fade in/out) 
+
+****flash:****
+effect{reverbzone*radius*preset} - define reverb on certain areas (Bathroom - Cave - Hangar - Underwater etc..) 
+effect{camerashake*0-1} - shake the camera, 0 min 1 max shake  
+effect{flash} - flash/blink screen (only works on enter or exit mode) 
+effect{slowmo*timer} - slow down time for the given time duration 
+effect{lookat*x,y,z*timer} - look at the car from the given position and duration 
+effect{fog*multiply} - multiply fog 
+effect{fog*multiply*r,g,b} - change fog color 
+effect{skycolor*r,g,b} - change sky color (affects ambient color) 
+effect{steam} - creates steam (gets effected by gravity pull) 
+effect{steam_small} - creates smaller steam (gets effected by gravity pull) 
+effect{drunk} - player gets drunk for 2 mins 
+effect{drunk*timer} - player gets drunk for amount of given time 
+ 
+****camsequence:****
+camsequence{sequence1*sequence2..} - teleports & rotates camera on each sequence 
+camsequence{time:pos:rot*time:pos:rot..} - example 
+camtranslate{time:pos:rot*time:pos:rot..} - moves & rotates camera over time on each sequence 
+ 
+****weapon:****
+weapon{refill} - refill all the weapons 
+weapon{refill*1/2/3/4} - refill selected weapon 
+weapon{empty} - empty all the weapons 
+weapon{empty*1/2/3/4} - empty selected weapon 
+weapon{0/1/2/3/4} - select/lock the weapon (0 fist 1 pistol 2 rifle 3 sniper 4 shotgun) 
+ 
+ ****interactionmenu:****
+interactionmenu{allow/block/value} - block access or open up interaction menu 
+values >> mainmenu, actions, inventory, accessories 
+                 personalvehicle, requestvehicle, vehicledoors, vehiclestatus, serveroptions, roleselect 
+
+****time:****
+time{day/night/0-360} - set time of the day 
+ 
+****weather:****
+weather{rain/clear} - set the weather 
+
+****tip:****
+tip{your text here.} - displays your text bottom of the screen 
+
+****header:****
+header{your text} - displays your text top of the screen 
+
+****draw:****
+draw{item*size}                                                  //create a object at the box position 
+draw{jerrycan*1}                                                 //example
+List:
+house(blue color house)/house1(orange color house)/house2(green color house)/house3(yellow color house)/halo(blue yellow halo)/halo1(orange yellow halo)/halo2(green color halo)/halo3(yellow color halo)/weapon1(M9/pistol)/weapon2(AR15/Rifle)/weapon3(AWSM/sniper)/weapon4(SM1014)/weapon5(AKM)/weapon6(UZI)/jerrycan/health/wrench(blue color wrench)/wrench1(orange color wrench)/wrench2(green color wrench)/wrench3(yellow color wrench)/car(blue color car)/car1(orange color car)/car2(green color car)/car3(yellow color car)/key/hamburger/dollar
+ 
+****sound:****
+sound{soundName/Link*volume*radius} - plays sound - if radius more than 999, sound will be 2D or mono 
+sound{soundName/Link*volume*radius*true} - plays sound and loop 
+sound{soundName/Link*volume*radius*true*true} - stream sound, otherwise download 
+
+****webrequest:****
+webrequest{Link} - open external link
+webrequest{Link*GET} - get data from lwebrequest{Link*POST*form*form..} - post to the link's database (php)
+
+****chat:****
+chat{my text} - sends chat from player's chat box, even triggers cheat codes like /detach all 
+
+****lookat:****
+lookat{fromXYZ*toXYZ*speed} - make object to look at another object 
+lookat{fromXYZ*toXYZ*speed*offset*multiply*followPlayer} - make object to look at another object with offset and axis adjustments 
+
+****transform:****
+transform{fromXYZ*toXYZ*speed} - move object from to position with a specific constant speed 
+transform{fromXYZ*toXYZ*speed*true} - move object back and forth (ping pong) 
+transform{fromXYZ*toXYZ*speed*false*delay} - move object from to position with a specific constant speed after some delay 
+transform{fromXYZ*toXYZ*speed*true* delay} - move object back and forth after amount of time passed (ping pong) 
+
+****rotate:****
+rotate{fromXYZ*toXYZ*speed} - rotate object with a specific constant speed 
+rotate{fromXYZ*toXYZ*speed*true} - rotate object back and forth (ping pong) 
+rotate{fromXYZ*toXYZ*speed*false*delay} - rotate object with a specific constant speed after some delay 
+rotate{fromXYZ*toXYZ*speed*true* delay} - rotate object back and forth after amount of time passed (ping pong) 
+
+****scale:****
+scale{fromXYZ*toXYZ*speed} - scale object with a specific constant speed 
+scale{fromXYZ*toXYZ*speed*true} - scale object back and forth (ping pong) 
+scale{fromXYZ*toXYZ*speed*false*delay} - scale object with a specific constant speed after some delay 
+scale{fromXYZ*toXYZ*speed*true* delay} - scale object back and forth after amount of time passed (ping pong) 
+
+****spawn:****
+spawn{name} - spawn object 
+spawn{name*XYZ*XYZ} - spawn object at position and rotation 
+
+****despawn:****
+despawn{name} - despawn object 
+
+****gravity:****
+gravity{x,y,z} - change gravity, default = 0,-9.81,0 
+
+ ****executeplayer:****
+executeplayer{ObjectName} - any object that matches the name will execute for everyone - e.g. npc/npcdeath, tire, ball, box etc 
+
+****Ifcondition:****
+ifcondition{condition1&&condition2&&condition3} - f the condition match <=>, execute for the player 
+ifcondition{weapon=1} - example check if holding pistol 
+
+****cooldown:****
+cooldown{timer} - avoids executing the trigger-box until the timer reaches zero e.g cooldown{60} 
+
+****calltriggerbox:****
+calltriggerbox{x,y,z} - call other trigger-box at the given position 
+calltriggerbox{x,y,z*delay} - call other trigger-box at the given position after amount of time 
+
+****setspawn:****
+setspawn{} - change the main spawn point 
+setspawn{x,y,z} - change the main spawn point to given position
+ 
+****spread:****
+spread{radius} - place randomly around within the given radius (at start or triggered) 
+
+****deactivate:****
+deactivate{} - deactivate trigger box after command executes 
+deactivate{delay} - deactivate trigger box after command 
+
+****outro:****
+outro{my text} - exit game with an outro 
+
+**Other:**
+playerposx,y,z
+The `Other` tag includes additional commands and functionalities that don't fit into specific predefined categories.
+
+- **playerposx,y,z:** Specifies the player's position as a reference for other commands. This can be used to move objects relative to the player's current coordinates.
+- Example: `transform{objectx,y,z*playerpos0,10,0*999}` - This command will move an object to the player's position, offset by 10 units upwards, at a speed of 999.
