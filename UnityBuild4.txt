@@ -17,632 +17,632 @@ Vote For Role: enabled
 Role-play: disabled
 Approve On Register: true
 Roles List:<color=yellow>[TAXI]</color>,<color=white>БЕЗРАБОТНЫЙ</color>,[BUILDER],<color=green>[DOCTOR]</color>,<color=orange>[MECHANIC]</color>,<color=blue>[POLICE]</color>,<color=red>[ADMIN]</color>,<color=red>[HELPER]</color>,ШАХТЁР,
-Trigger_Box_Editor:-1528.50,46.84,-1870.80:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*0,13*-1528,-1870}|deactivate{0,1}
-Trigger_Box_Editor:-1473.79,43.63,-427.41:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,6*-1473.8,-427.4}|deactivate{0,1}
-Trigger_Box_Editor:-1715.57,41.20,-438.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-1715,-438.3}|deactivate{0,1}
-Trigger_Box_Editor:-449.24,47.27,-955.37:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-449.2,-955.4}|deactivate{0,1}
-Trigger_Box_Editor:-910.13,41.39,-773.31:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-910.1,-773.3}|deactivate{0,1}
-Trigger_Box_Editor:-1609.46,35.63,-1954.38:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*5,13*-1612.0,-1955.8}|deactivate{0,1}
-Spawn_Point_Editor:-1653.77,6.74,1299.31:0.00,270.00,0.00:1.00,1.00,1.00: 
-Road_NoSidewalk_Editor:-1548.01,26.17,1904.88:0.00,173.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1541.11,26.17,1814.53:0.00,178.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1536.54,26.17,1722.95:0.00,176.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1527.72,26.17,1631.67:0.00,173.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1514.22,26.17,1541.53:0.00,170.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1495.33,26.17,1452.28:0.00,166.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1473.22,26.17,1363.52:0.00,166.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1448.92,26.17,1275.14:0.00,163.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1423.70,26.17,1188.46:0.00,166.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1402.35,26.17,1099.62:0.00,167.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1381.43,26.17,1011.67:0.00,166.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1356.25,26.17,924.49:0.00,162.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1326.13,26.17,840.00:0.00,159.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1291.91,26.17,755.22:0.00,157.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1254.81,26.17,672.96:0.00,154.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1211.93,26.17,593.77:0.00,149.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1164.79,26.17,522.48:0.00,144.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1117.50,26.17,454.25:0.00,146.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1078.85,26.17,388.03:0.00,155.00,0.00:0.90,1.00,0.60: 
-Road_NoSidewalk_Editor:-1052.02,26.17,317.56:0.00,162.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1031.96,26.17,225.45:0.00,173.00,0.00:0.90,1.00,0.90: 
-Road_NoSidewalk_Editor:-1026.17,26.17,171.15:0.00,174.00,0.00:0.90,1.00,0.90: 
-Road_NoSidewalk_Editor:-1020.74,26.17,35.57:0.00,180.00,0.00:0.90,1.00,1.50: 
-Road_NoSidewalk_Editor:-1022.29,26.17,-146.62:0.00,181.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-1027.34,26.07,-341.27:0.00,182.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-1622.99,26.17,-913.41:0.00,0.00,0.00:0.40,1.00,0.50: 
-Road_NoSidewalk_Editor:-1622.91,26.17,-821.30:0.00,0.00,0.00:0.40,1.00,1.30: 
-Road_NoSidewalk_Editor:-1622.99,26.17,-717.76:0.00,0.00,0.00:0.40,1.00,0.50: 
-Road_NoSidewalk_Editor:-1623.04,26.17,-660.34:0.00,0.00,0.00:0.40,1.00,0.50: 
-Road_NoSidewalk_Editor:-1623.13,26.17,-615.76:0.00,0.00,0.00:0.40,1.00,0.30: 
-Road_NoSidewalk_Editor:-1622.81,26.17,-581.33:0.00,1.00,0.00:0.40,1.00,0.30: 
-Road_NoSidewalk_Editor:-1622.03,26.17,-547.24:0.00,2.00,0.00:0.40,1.00,0.30: 
-Road_NoSidewalk_Editor:-1621.33,26.17,-524.29:0.00,2.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1621.34,26.17,-514.07:0.00,359.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1622.30,26.17,-503.71:0.00,351.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1625.47,26.17,-494.86:0.00,330.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1631.03,26.17,-488.48:0.00,310.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1639.15,26.17,-484.54:0.00,289.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1649.56,26.17,-482.54:0.00,275.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1659.91,26.17,-482.40:0.00,268.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1670.43,26.17,-483.96:0.00,257.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1679.67,26.17,-487.58:0.00,243.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1686.06,26.17,-493.37:0.00,218.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1690.59,26.17,-502.06:0.00,198.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1692.34,26.17,-512.10:0.00,183.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1692.73,26.17,-523.30:0.00,180.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1692.78,26.17,-551.92:0.00,180.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1692.70,26.17,-597.52:0.00,180.00,0.00:0.40,1.10,0.40: 
-Road_NoSidewalk_Editor:-1692.81,26.17,-643.10:0.00,180.00,0.00:0.40,1.10,0.40: 
-Road_NoSidewalk_Editor:-1692.81,26.17,-688.92:0.00,180.00,0.00:0.40,1.10,0.40: 
-Road_NoSidewalk_Editor:-1692.81,26.17,-734.80:0.00,180.00,0.00:0.40,1.10,0.40: 
-Road_NoSidewalk_Editor:-1692.83,26.17,-780.74:0.00,180.00,0.00:0.40,1.10,0.40: 
-Road_NoSidewalk_Editor:-1692.87,26.17,-825.99:0.00,180.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1692.83,26.17,-871.02:0.00,180.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1692.79,26.17,-903.79:0.00,179.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1692.70,26.17,-926.26:0.00,180.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1748.27,26.17,-941.65:0.00,89.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1725.22,26.17,-941.25:0.00,89.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1702.72,26.17,-941.02:0.00,90.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1679.89,26.17,-940.97:0.00,90.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1656.93,26.17,-940.96:0.00,90.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1634.53,26.17,-940.96:0.00,90.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1612.17,26.17,-941.82:0.00,95.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1589.79,26.47,-945.21:0.00,282.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1567.75,26.47,-950.32:0.00,284.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1547.54,26.47,-954.10:0.00,277.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1525.50,26.47,-956.80:0.00,277.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1503.51,26.47,-960.50:0.00,282.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1481.12,26.47,-965.20:0.00,282.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1459.32,26.47,-970.99:0.00,288.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1335.49,25.97,-743.63:0.00,170.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1334.53,26.07,-840.34:0.00,180.00,0.00:0.40,1.00,1.60: 
-Road_NoSidewalk_Editor:-1338.44,26.07,-734.28:0.00,155.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1344.50,26.07,-727.16:0.00,125.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1353.19,26.07,-724.21:0.00,92.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1427.21,26.07,-721.79:0.00,92.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1387.45,26.07,-723.14:0.00,92.00,0.00:0.40,1.00,0.50: 
-Road_NoSidewalk_Editor:-1436.03,26.07,-736.99:0.00,2.00,0.00:0.40,1.00,0.30: 
-Road_NoSidewalk_Editor:-1437.38,26.07,-773.03:0.00,2.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1438.25,26.07,-818.89:0.00,0.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1438.70,26.07,-864.87:0.00,1.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1436.71,26.07,-910.25:0.00,354.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1431.10,26.07,-955.88:0.00,352.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1426.49,26.07,-977.61:0.00,278.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1381.21,26.07,-983.93:0.00,278.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1336.13,26.07,-991.85:0.00,282.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1291.76,25.97,-996.45:0.00,270.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1521.03,26.17,-1411.53:0.00,7.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1275.78,26.30,-512.15:0.00,110.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1299.85,26.30,-499.99:0.00,122.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1327.83,26.30,-481.37:0.00,125.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1356.40,26.30,-463.64:0.00,119.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1385.40,26.30,-446.45:0.00,122.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1414.12,26.30,-428.29:0.00,122.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1443.11,26.30,-413.17:0.00,114.00,0.00:0.70,0.80,0.30: 
-Road_NoSidewalk_Editor:-1478.37,26.30,-405.03:0.00,95.00,0.00:0.70,0.80,0.40: 
-Road_NoSidewalk_Editor:-1523.72,26.30,-403.51:0.00,89.00,0.00:0.70,0.80,0.40: 
-Road_NoSidewalk_Editor:-1598.46,26.30,-404.87:0.00,89.00,0.00:0.70,0.80,0.90: 
-Road_NoSidewalk_Editor:-1701.85,26.28,-406.57:0.00,89.00,0.00:0.70,0.80,0.90: 
-Road_NoSidewalk_Editor:-1759.81,26.30,-450.29:0.00,1.00,0.00:0.70,0.80,0.90: 
-Road_NoSidewalk_Editor:-1760.96,26.30,-510.90:0.00,1.00,0.00:0.70,0.80,0.90: 
-Road_NoSidewalk_Editor:-1761.90,26.30,-612.65:0.00,0.00,0.00:0.70,0.80,0.90: 
-Road_NoSidewalk_Editor:-912.86,26.07,-884.33:0.00,180.00,0.00:0.50,1.00,1.20: 
-Road_NoSidewalk_Editor:-966.15,25.77,-522.43:0.00,195.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-963.40,25.97,-502.32:0.00,178.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-963.76,25.87,-495.96:0.00,176.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-967.59,25.97,-479.76:0.00,155.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-970.61,25.87,-473.60:0.00,155.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-981.09,25.97,-458.62:0.00,136.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-995.69,25.87,-447.95:0.00,117.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1013.66,25.77,-442.03:0.00,100.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1031.50,25.67,-441.96:0.00,83.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1049.54,25.97,-447.02:0.00,67.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1054.02,25.67,-449.00:0.00,67.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1072.46,25.87,-463.28:0.00,44.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1068.47,25.27,-459.07:0.00,44.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1070.09,25.47,-460.92:0.00,44.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1079.49,25.77,-477.98:0.00,14.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1080.90,25.77,-483.23:0.00,14.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1083.32,25.47,-501.61:0.00,358.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1081.12,25.37,-522.95:0.00,350.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1073.49,25.77,-538.25:0.00,322.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1059.74,25.47,-551.79:0.00,307.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1036.52,25.67,-561.73:0.00,287.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-1047.96,25.17,-558.41:0.00,287.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-1040.93,25.17,-560.45:0.00,287.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-988.21,24.67,-555.62:0.00,250.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-981.63,25.57,-551.38:0.00,227.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-1535.30,26.17,-1486.91:0.00,15.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1540.74,26.17,-1505.06:0.00,20.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1564.08,26.07,-1569.09:0.00,20.00,0.00:0.90,1.00,1.00: 
-Road_NoSidewalk_Editor:-1603.23,25.97,-1677.22:0.00,20.00,0.00:0.90,1.00,1.00: 
-Road_NoSidewalk_Editor:-1690.91,26.07,-1920.94:0.00,20.00,0.00:0.90,1.00,3.50: 
-Road_NoSidewalk_Editor:-1774.47,26.97,-1507.26:0.00,1.00,0.00:0.70,0.80,0.50: 
-Road_NoSidewalk_Editor:-1773.73,26.97,-1465.20:0.00,1.00,0.00:0.70,0.80,0.50: 
-Road_NoSidewalk_Editor:-1774.67,26.97,-1489.25:0.00,1.00,0.00:0.70,0.80,0.50: 
-Road_NoSidewalk_Editor:-1775.15,26.97,-1546.62:0.00,0.00,0.00:0.70,0.80,0.50: 
-Road_NoSidewalk_Editor:-1478.07,26.17,-1056.48:0.00,93.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-691.96,26.37,-2375.33:0.00,84.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-630.34,25.97,-1857.22:0.00,186.00,0.00:0.90,0.70,0.70: 
-Road_NoSidewalk_Editor:-636.95,26.37,-1925.80:0.00,185.00,0.00:0.90,0.70,0.70: 
-Road_NoSidewalk_Editor:-645.84,26.37,-2017.39:0.00,186.00,0.00:0.90,0.70,0.90: 
-Road_NoSidewalk_Editor:-656.74,25.97,-2120.26:0.00,186.00,0.00:0.90,0.70,0.90: 
-Road_NoSidewalk_Editor:-667.57,26.37,-2223.22:0.00,186.00,0.00:0.90,0.70,0.90: 
-Road_NoSidewalk_Editor:-678.40,26.37,-2325.94:0.00,186.00,0.00:0.90,0.70,0.90: 
-Road_NoSidewalk_Editor:-953.39,26.37,-2425.72:0.00,104.00,0.00:0.90,0.70,0.30: 
-Road_NoSidewalk_Editor:-928.12,26.37,-2431.18:0.00,99.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-924.97,26.37,-2431.67:0.00,99.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-904.80,26.37,-2431.90:0.00,83.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-900.43,26.37,-2431.45:0.00,83.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-879.67,26.37,-2427.36:0.00,74.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-865.04,26.37,-2422.41:0.00,65.00,0.00:0.90,0.70,0.10: 
-Road_NoSidewalk_Editor:-834.62,26.37,-2408.17:0.00,65.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-793.75,26.37,-2390.62:0.00,73.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-772.54,26.37,-2385.17:0.00,77.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-727.65,26.37,-2379.13:0.00,84.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-650.61,26.37,-2374.59:0.00,89.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-582.45,26.37,-2373.96:0.00,90.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-502.16,26.37,-2373.03:0.00,89.00,0.00:0.90,0.70,0.80: 
-Road_NoSidewalk_Editor:-410.02,26.37,-2371.60:0.00,89.00,0.00:0.90,0.70,0.80: 
-Road_NoSidewalk_Editor:-318.02,26.37,-2370.68:0.00,90.00,0.00:0.90,0.70,0.80: 
-Road_NoSidewalk_Editor:-208.57,26.37,-2369.63:0.00,89.00,0.00:0.90,0.70,1.10: 
-Road_NoSidewalk_Editor:-82.54,26.37,-2367.40:0.00,89.00,0.00:0.90,0.70,1.10: 
-Road_NoSidewalk_Editor:-11.61,26.37,-2366.72:0.00,90.00,0.00:0.90,0.70,1.10: 
-Road_NoSidewalk_Editor:74.03,26.37,-2366.69:0.00,90.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:119.45,26.37,-2366.24:0.00,89.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:210.42,26.37,-2365.55:0.00,90.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:165.31,26.37,-2365.94:0.00,90.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:256.30,26.37,-2365.13:0.00,89.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:302.10,26.37,-2364.78:0.00,90.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:348.17,26.37,-2364.53:0.00,90.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:393.45,26.37,-2364.26:0.00,89.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:439.20,26.37,-2363.51:0.00,89.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:564.43,26.37,-2362.92:0.00,90.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:495.54,26.37,-2362.92:0.00,90.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:632.98,26.37,-2362.32:0.00,89.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:701.95,26.37,-2361.05:0.00,89.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:770.62,26.37,-2362.58:0.00,93.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:829.37,26.37,-2370.21:0.00,101.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:834.10,26.37,-2371.04:0.00,101.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:888.66,26.37,-2384.96:0.00,110.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:914.86,26.37,-2394.54:0.00,110.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:944.61,26.37,-2401.60:0.00,70.00,0.00:0.90,0.70,0.10: 
-Road_NoSidewalk_Editor:949.11,26.37,-2399.99:0.00,70.00,0.00:0.90,0.70,0.10: 
-Road_NoSidewalk_Editor:955.40,26.37,-2410.99:0.00,117.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:982.54,26.37,-2432.08:0.00,153.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:971.42,26.37,-2410.34:0.00,153.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:886.95,24.87,-2266.81:0.00,149.00,0.00:0.90,0.70,2.50: 
-Road_NoSidewalk_Editor:799.74,26.17,-2126.85:0.00,141.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:782.69,26.37,-2106.17:0.00,137.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:766.61,26.37,-2090.78:0.00,130.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:745.37,26.37,-2076.88:0.00,118.00,0.00:0.90,0.70,0.30: 
-Road_NoSidewalk_Editor:725.20,26.37,-2067.28:0.00,112.00,0.00:0.90,0.70,0.30: 
-Road_NoSidewalk_Editor:710.37,26.37,-2063.48:0.00,103.00,0.00:0.90,0.70,0.30: 
-Road_NoSidewalk_Editor:689.14,26.37,-2059.17:0.00,98.00,0.00:0.90,0.70,0.30: 
-Road_NoSidewalk_Editor:650.49,26.37,-2054.93:0.00,96.00,0.00:0.90,0.70,0.70: 
-Road_NoSidewalk_Editor:557.64,26.37,-2042.01:0.00,99.00,0.00:0.90,0.70,1.40: 
-Road_NoSidewalk_Editor:398.35,26.37,-2018.14:0.00,98.00,0.00:0.90,0.70,1.40: 
-Road_NoSidewalk_Editor:298.65,26.37,-2002.01:0.00,104.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:280.71,26.37,-1997.23:0.00,110.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:137.33,26.37,-1939.88:0.00,112.00,0.00:0.90,0.70,2.50: 
-Road_NoSidewalk_Editor:-39.29,26.37,-1881.28:0.00,96.00,0.00:0.90,0.70,0.80: 
-Road_NoSidewalk_Editor:-216.76,26.37,-1862.56:0.00,96.00,0.00:0.90,0.70,2.30: 
-Road_NoSidewalk_Editor:-480.08,26.37,-1834.88:0.00,96.00,0.00:0.90,0.70,2.30: 
-Road_NoSidewalk_Editor:-743.04,26.37,-1807.07:0.00,96.00,0.00:0.90,0.70,2.30: 
-Road_NoSidewalk_Editor:-896.95,26.27,-1788.71:0.00,101.00,0.00:0.90,0.90,0.50: 
-Road_NoSidewalk_Editor:-940.94,26.27,-1776.75:0.00,108.00,0.00:0.90,0.90,0.50: 
-Road_NoSidewalk_Editor:-991.65,26.17,-1755.98:0.00,115.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1014.83,26.17,-1745.04:0.00,115.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1653.92,26.27,-1866.61:0.00,320.00,0.00:0.50,1.00,0.20: 
-Road_NoSidewalk_Editor:-1652.99,26.07,-1872.69:0.00,288.00,0.00:0.50,1.00,0.20: 
-Road_NoSidewalk_Editor:-1628.12,25.77,-1930.88:0.00,337.00,0.00:0.60,1.00,0.20: 
-Road_NoSidewalk_Editor:-1608.19,25.67,-1897.64:0.00,13.00,0.00:0.50,1.00,0.20: 
-Road_NoSidewalk_Editor:-1611.68,25.77,-1896.69:0.00,354.00,0.00:0.50,1.00,0.20: 
-Road_NoSidewalk_Editor:-1613.30,25.77,-1911.62:0.00,38.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1640.72,25.97,-2085.10:0.00,110.00,0.00:0.80,0.70,0.80: 
-Road_NoSidewalk_Editor:-1625.64,25.97,-2034.88:0.00,110.00,0.00:1.50,0.70,0.80: 
-Road_NoSidewalk_Editor:-1598.84,25.47,-1979.95:0.00,110.00,0.00:1.40,0.70,0.80: 
-Road_NoSidewalk_Editor:-1540.34,26.07,-1956.44:0.00,51.00,0.00:0.50,0.10,0.20: 
-Road_NoSidewalk_Editor:-1653.69,25.97,-2003.91:0.00,20.00,0.00:1.10,0.70,1.40: 
-Road_NoSidewalk_Editor:-1570.28,25.47,-2035.30:0.00,20.00,0.00:0.90,0.70,1.40: 
-Road_NoSidewalk_Editor:-1526.89,25.77,-1940.73:0.00,28.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1485.67,26.17,-1929.34:0.00,98.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1476.65,26.17,-1923.12:0.00,60.00,0.00:0.50,1.00,0.30: 
-Road_NoSidewalk_Editor:-1475.85,26.07,-1918.25:0.00,59.00,0.00:0.50,1.00,0.30: 
-Road_NoSidewalk_Editor:-1486.10,26.27,-1939.18:0.00,134.00,0.00:0.50,1.00,0.20: 
-Road_NoSidewalk_Editor:-1487.68,26.17,-1932.27:0.00,102.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1491.13,26.17,-1927.07:0.00,90.00,0.00:0.50,1.00,0.40: 
-Road_Editor:-1482.09,24.14,-1967.28:0.00,20.00,0.00:0.90,1.10,0.90: 
-Road_NoSidewalk_Editor:-844.45,26.17,-1161.20:0.00,0.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-844.20,26.17,-1093.60:0.00,180.00,0.00:0.90,1.00,1.20: 
-Road_NoSidewalk_Editor:-849.27,26.17,-1191.37:0.00,196.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-862.66,26.17,-1230.18:0.00,200.00,0.00:0.90,1.00,0.60: 
-Road_NoSidewalk_Editor:-915.54,26.17,-1375.52:0.00,200.00,0.00:0.90,1.00,2.20: 
-Road_NoSidewalk_Editor:-1000.21,26.17,-1611.76:0.00,199.00,0.00:0.90,1.00,2.20: 
-Trigger_Box_Editor:-1516.76,17.70,-1874.64:0.00,0.00,0.00:4.80,6.60,3.00:mode{enter}|tip{улица}|teleport{-1536.9, 26.8, -1875.7}
-Road_NoSidewalk_Editor:-1039.76,26.17,-2393.94:0.00,291.00,0.00:0.90,1.00,1.40: 
-Road_NoSidewalk_Editor:-1157.84,26.17,-2348.20:0.00,292.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1479.33,26.07,-2218.22:0.00,292.00,0.00:0.90,1.00,5.30: 
-Road_NoSidewalk_Editor:-1147.73,26.17,-2022.21:0.00,200.00,0.00:0.90,1.00,5.20: 
-Road_NoSidewalk_Editor:-1081.30,26.17,-1716.03:0.00,111.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1156.52,26.17,-1687.14:0.00,111.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1231.32,26.17,-1657.48:0.00,112.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1305.49,26.17,-1627.90:0.00,112.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1324.20,26.07,-1527.42:0.00,190.00,0.00:0.90,1.00,0.40: 
-Road_NoSidewalk_Editor:-1315.24,26.17,-1460.12:0.00,186.00,0.00:0.90,1.00,0.80: 
-Road_NoSidewalk_Editor:-1298.52,26.17,-1317.49:0.00,187.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-1274.67,26.07,-1123.09:0.00,187.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-1659.72,26.17,-1032.86:0.00,98.00,0.00:0.90,1.00,1.80: 
-Road_NoSidewalk_Editor:-1527.53,26.17,-1051.36:0.00,97.00,0.00:0.90,1.00,0.70: 
-Road_NoSidewalk_Editor:-1372.26,26.07,-1069.23:0.00,97.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-1499.59,26.17,-1236.88:0.00,7.00,0.00:0.90,1.00,3.00: 
-Road_NoSidewalk_Editor:-1528.04,26.17,-1450.43:0.00,11.00,0.00:0.90,1.00,0.50: 
-Road_NoSidewalk_Editor:-1690.91,24.67,-1920.94:0.00,20.00,0.00:0.90,1.00,3.50: 
-Road_NoSidewalk_Editor:-1442.82,26.17,-1861.90:0.00,20.00,0.00:0.90,1.00,5.90: 
-Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
-Road_NoSidewalk_Editor:-1763.45,26.30,-759.88:0.00,1.00,0.00:0.70,0.80,1.70: 
-Road_NoSidewalk_Editor:-1765.60,26.30,-949.86:0.00,1.00,0.00:0.70,0.80,1.70: 
-Road_NoSidewalk_Editor:-1768.50,27.00,-1144.81:0.00,1.00,0.00:0.70,0.80,1.70: 
-Road_NoSidewalk_Editor:-1771.64,27.00,-1339.44:0.00,1.00,0.00:0.70,0.80,1.70: 
-Road_NoSidewalk_Editor:-1775.28,26.97,-1603.92:0.00,0.00,0.00:0.70,0.80,0.50: 
-Trigger_Box_Editor:-904.02,903.05,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{speed=0&&emote=Em_WorkingOnDevice}|player{heal*200}|effect{flash}|tip{вы излечились}|player{emote*Em_GrabFromFloor}
-Trigger_Box_Editor:-904.02,908.05,-864.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Канистра 1&&role=ADMIN}|chat{(private) У вас было удалено 1 Канистра}|tip{У вас было удалено 1 Канистра}|inventory{add*Канистра*-1}
-Trigger_Box_Editor:-904.02,908.05,-867.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Канистра 1&&role=ADMIN}|chat{(private) Вам было выдана 1 Канистра}|tip{Вам было выдано 1 Канистра}|inventory{add*Канистра*+1}
-Trigger_Box_Editor:-904.02,904.95,-864.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Канистра&&role=ADMIN}|chat{(private) У вас было удалено 1 Канистра}|tip{У вас было удалено 1 Канистра}|inventory{add*Канистра*-1}
-Trigger_Box_Editor:-904.02,904.95,-867.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Канистра&&role=ADMIN}|chat{(private) Вам было выдана 1 Канистра}|tip{Вам было выдано 1 Канистра}|inventory{add*Канистра*+1}
-Trigger_Box_Editor:-904.02,908.05,-871.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Аптечка 1&&role=ADMIN}|chat{(private) У вас было удалено 1 Аптечка}|tip{У вас было удалено 1 Аптечка}|inventory{add*Аптечка*-1}
-Trigger_Box_Editor:-904.02,904.95,-871.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Аптечка&&role=ADMIN}|chat{(private) У вас было удалено 1 Аптечка}|tip{У вас было удалено 1 Аптечка}|inventory{add*Аптечка*-1}
-Trigger_Box_Editor:-904.02,908.05,-874.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Аптечка 1&&role=ADMIN}|chat{(private) Вам было выдана 1 Аптечка}|tip{Вам было выдано 1 Аптечка}|inventory{add*Аптечка*+1}
-Trigger_Box_Editor:-904.02,904.95,-874.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Аптечка&&role=ADMIN}|chat{(private) Вам было выдана 1 Аптечка}|tip{Вам было выдано 1 Аптечка}|inventory{add*Аптечка*+1}
-Trigger_Box_Editor:-439.71,36.28,-929.13:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-438.32,36.28,-958.05:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-439.09,36.28,-962.77:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-452.92,36.28,-958.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-453.05,36.28,-962.91:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-454.58,36.28,-930.36:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-454.78,36.28,-933.34:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-439.84,36.28,-929.14:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-439.66,36.28,-933.40:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-439.04,36.28,-944.12:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-439.22,36.28,-948.21:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-454.62,36.28,-949.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-454.03,36.28,-944.42:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-451.05,47.97,-949.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-11.000₽</color>}|inventory{add*Рублей*-11000}
-Trigger_Box_Editor:-451.05,50.97,-945.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Рублей*-10000}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-10.00₽</color>}
-Trigger_Box_Editor:-451.05,47.97,-945.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-451, 51, -945*10}
-Trigger_Box_Editor:-905.87,28.64,-770.72:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-865.22,28.64,-770.92:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-885.52,28.64,-770.11:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-879.20,28.64,-769.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-900.39,28.64,-770.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-889.99,41.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-8000₽</color>}|inventory{add*Деньги*-8000}
-Trigger_Box_Editor:-894.99,44.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Деньги*-7500}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-7500₽</color>}
-Trigger_Box_Editor:-894.99,41.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-895, 45, -770*10}
-Trigger_Box_Editor:-905.83,28.64,-770.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-901.02,899.95,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{interactionmenuclick=Канистра&&isinvehicle=true&&inventory;Канистра>0}|vehicle{fuel*1000}|tip{Вы заправили машину, <color=red> - 1 Канистра</color>}|inventory{add*Канистра*-1}
-Trigger_Box_Editor:-6024.55,604.97,580.44:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=5}|transform{-6024, 601, 581*-6000, 600.7, 601.6*999}
-Trigger_Box_Editor:-6024.01,600.95,580.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=5}|spawn{zupra*-6000, 606, 598*0,0,0}|inventory{add*salon*4}|tip{Zupra}
-Trigger_Box_Editor:-6017.91,607.97,585.23:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=4}|transform{-6021, 601, 584*-6001.5, 600.8, 600.3*999}
-Trigger_Box_Editor:-6017.89,604.97,585.25:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=4}|transform{-6019, 601, 586*-6000, 600.7, 601.6*999}
-Trigger_Box_Editor:-6021.01,600.95,583.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=4}|spawn{marock*-6000, 606, 598*0,0,0}|inventory{add*salon*5}|tip{Marock}
-Trigger_Box_Editor:-6019.01,600.95,585.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=4}|spawn{king*-6000, 606, 598*0,0,0}|inventory{add*salon*3}|tip{king}
-Trigger_Box_Editor:-6014.02,607.97,590.28:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=3}|transform{-6016, 601, 589*-6001.5, 600.8, 600.3*999}
-Trigger_Box_Editor:-6013.94,604.97,590.16:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=3}|transform{-6014, 601, 591*-6000, 600.7, 601.6*999}
-Trigger_Box_Editor:-6016.00,600.95,588.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=3}|spawn{zupra*-6000, 606, 598*0,0,0}|inventory{add*salon*4}|tip{king}
-Trigger_Box_Editor:-6014.00,600.95,590.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=3}|spawn{Elissan*-6000, 606, 598*0,0,0}|inventory{add*salon*2}|tip{Elissan}
-Trigger_Box_Editor:-6011.12,607.97,593.29:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=2}|transform{-6011, 601, 593*-6001.5, 600.8, 600.3*999}
-Trigger_Box_Editor:-6011.00,600.95,592.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=2}|spawn{King*-6000, 606, 598*0,0,0}|inventory{add*salon*3}|tip{King}
-Trigger_Box_Editor:-6009.00,600.95,593.98:20.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=2}|spawn{pride*-6000, 606, 598*0,0,0}|inventory{add*salon*1}|tip{pride}
-Trigger_Box_Editor:-6011.12,604.97,593.29:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=2}|transform{-6009, 601, 594*-6000, 600.7, 601.6*999}
-Trigger_Box_Editor:-6006.68,604.97,596.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=1}|transform{-6006, 601, 596*-6001.5, 600.8, 600.3*999}
-Trigger_Box_Editor:-6005.99,600.65,595.98:20.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=1}|spawn{elissan*-6000, 606, 598*0,0,0}|inventory{add*salon*2}|tip{Elissan}
-Trigger_Box_Editor:-5996.77,608.71,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5997, 602, 617*-6001, 603.5, 606.4*999}
-Trigger_Box_Editor:-5996.77,605.71,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5997, 602, 617*-6001, 604, 606.4*999}
-Trigger_Box_Editor:-5997.77,608.71,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5998, 602, 615*-6001, 603.5, 606.4*999}
-Trigger_Box_Editor:-5997.77,605.71,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5998, 602, 615*-6001, 604, 606.4*999}
-Trigger_Box_Editor:-5998.87,608.71,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5999, 602, 613*-6001, 603.5, 606.4*999}
-Trigger_Box_Editor:-5998.87,605.71,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5999, 602, 613*-6001, 604, 606.4*999}
-Trigger_Box_Editor:-5999.97,608.71,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-6000, 602, 611*-6001, 603.5, 606.4*999}
-Trigger_Box_Editor:-5999.97,605.71,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-6000, 602, 611*-6001, 604, 606.4*999}
-Trigger_Box_Editor:-6000.87,608.71,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-6001, 604, 609*-6001, 604, 606.4*999}
-Trigger_Box_Editor:-6000.87,605.71,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-6001, 602, 609*-6001, 603.5, 606.4*999}
-UI_Scalable_Editor:-5996.96,601.99,617.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=400><font="pricedown">1.000.000</size>
-UI_Scalable_Editor:-5996.96,603.99,617.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Marock</size>
-UI_Scalable_Editor:-5997.96,601.99,615.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">750.000</size>
-UI_Scalable_Editor:-5997.96,603.99,615.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Zupra</size>
-UI_Scalable_Editor:-5998.96,601.99,613.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">500.000</size>
-UI_Scalable_Editor:-5998.96,603.99,613.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">King</size>
-UI_Scalable_Editor:-5999.96,603.99,611.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Elissan</size>
-UI_Scalable_Editor:-5999.96,601.99,611.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">250.000</size>
-UI_Scalable_Editor:-6000.96,601.99,609.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">100.000</size>
-UI_Scalable_Editor:-6000.96,603.99,609.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Pride</size>
-UI_Scalable_Editor:-6004.30,602.20,604.59:20.00,148.00,0.00:1.00,1.00,1.00:<color=yellow><size=470><font="pricedown">ВПЕРЁД</size></color>
-UI_Scalable_Editor:-6002.68,602.20,605.86:20.00,148.00,0.00:1.00,1.00,1.00:<color=yellow><size=470><font="pricedown">НАЗАД</size></color>
-Block_Scalable_Editor:-6000.79,603.50,606.30:0.00,110.00,0.00:2.00,1.20,0.10:color{0.00,0.00,0.00}
-UI_Scalable_Editor:-6000.86,602.69,606.31:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">КУПИТЬ</size>
-Block_Scalable_Editor:-6000.79,602.60,606.30:0.00,110.00,0.00:2.00,0.80,0.10:color{0.00,1.00,0.00}
-Trigger_Box_Editor:-6000.50,605.35,605.71:0.00,128.00,0.00:1.20,0.70,4.70:mode{onclick}|tip{ВЫХОД}|inventory{add*camavtosalon*-999}|inventory{remove*camavtosalon}|inventory{remove*salon}|chat{/despawnvehicle}
-Trigger_Box_Editor:-6006.15,603.66,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,1,1}|tip{голубой}
-Trigger_Box_Editor:-6005.45,603.56,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,0,0}|tip{чёрный}
-Trigger_Box_Editor:-6004.75,603.66,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0.3,0}|tip{оранжевый}
-Trigger_Box_Editor:-6004.75,605.26,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0,0}|tip{красный}
-Trigger_Box_Editor:-6005.45,604.36,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,1,1}|tip{Белый}
-Trigger_Box_Editor:-6006.15,604.46,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,1,0}|tip{желтый}
-Trigger_Box_Editor:-6004.75,604.46,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0,1}|tip{розовый}
-Trigger_Box_Editor:-6005.45,605.16,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,1,0}|tip{Зелёный}
-Trigger_Box_Editor:-6006.15,605.16,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,0,1}|tip{синий}
-Spotlight_Editor:-6000.01,619.80,600.03:90.00,270.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{100,53,1,1}
-Trigger_Box_Editor:-6000.24,618.49,603.26:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;camavtosalon>0}|camsequence{1;-6006, 605, 609;10, 150, 0*1;-1485, 5, -430;10, 150, 0}
-Block_Scalable_Editor:-5981.09,601.00,616.54:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,0.00}
-Block_Scalable_Editor:-6017.60,601.00,617.34:0.00,0.00,0.00:1.00,1.00,1.00:color{0.00,0.00,1.00}
-Block_Scalable_Editor:-6017.12,601.00,581.78:0.00,0.00,0.00:1.00,1.00,1.00:color{0.00,1.00,0.00}
-Block_Scalable_Editor:-5980.11,601.00,582.48:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,0.00,0.00}
-Block_Scalable_Editor:-6006.68,603.40,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,1.00,1.00}
-Block_Scalable_Editor:-6005.98,603.40,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-6005.28,603.40,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.30,0.00}
-Block_Scalable_Editor:-6006.68,604.20,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,1.00,0.00}
-Block_Scalable_Editor:-6005.98,604.20,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-6005.28,604.20,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.00,1.00}
-Block_Scalable_Editor:-6006.68,605.00,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,0.00,1.00}
-Block_Scalable_Editor:-6005.28,605.00,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.00,0.00}
-Block_Scalable_Editor:-6005.98,605.00,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,1.00,0.00}
-UI_Scalable_Editor:-6002.05,605.00,606.98:0.00,128.00,0.00:1.00,1.00,1.00:<size=556><font="pricedown">ВЫХОД</size>
-Block_Scalable_Editor:-5979.59,620.00,600.37:0.00,180.00,90.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-6019.20,620.00,599.48:0.00,180.00,90.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-5999.24,620.00,618.47:90.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-5999.10,620.00,579.80:90.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-6000.00,620.00,599.98:0.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Cylinder_Editor:-6000.03,601.00,599.97:0.00,0.00,0.00:7.00,0.10,7.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-6000.00,600.00,599.98:0.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
-Block_Scalable_Editor:-6273.02,954.98,195.31:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1490.00,-17.27,-473.30:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
-Point_Light_Editor:-1481.11,42.03,-450.45:0.00,0.00,0.00:6.00,0.50,1.00:color{1.00,1.00,1.00} light{26,179,0,1}
-Point_Light_Editor:-1481.11,42.03,-426.25:0.00,0.00,0.00:6.00,0.50,1.00:color{1.00,1.00,1.00} light{26,179,0,1}
-Spotlight_Editor:-1478.02,19.93,-438.01:90.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{100,60,0,1}
-Trigger_Box_Editor:-1476.49,28.63,-440.20:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*camavtosalon*1}|inventory{add*salon*1}|tip{Автосалон}|teleport{-1476, 27, -436}|spawn{pride*-6000, 607, 598*0,0,0}|draw{car2}
-Trigger_Box_Editor:-1764.95,4.61,-1856.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role!=ШАХТЁР}|tip{<color=green>Вы устроились работать шахтёром!</color>}|player{role*ШАХТЁР}|player{mask*13}|chat{/heistbag}|player{emote*Em_GrabFromFloor}|draw{halo2}
-Trigger_Box_Editor:-1618.44,28.04,1642.84:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false}|tip{шахта}|teleport{-1764.2, 3.6, -1863.7}|draw{halo2}
-Trigger_Box_Editor:-1771.73,4.91,-1869.45:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{выход}|teleporte{-1615.0, 27.0, 1657.3}
-Point_Light_Editor:-1759.66,11.19,-1855.72:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Point_Light_Editor:-1759.66,11.19,-1862.02:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Point_Light_Editor:-1759.46,11.19,-1868.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Point_Light_Editor:-1766.76,11.19,-1868.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Point_Light_Editor:-1766.76,11.19,-1855.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Point_Light_Editor:-1766.76,11.19,-1862.12:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
-Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
-Trigger_Box_Editor:-1611.90,28.04,-1955.73:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{гараж.}|teleport{1145.5, 8.1, -347.9}|draw{halo2}
-Building_Shop2_Editor:-1324.04,28.41,-1350.86:0.00,270.00,0.00:34.60,34.60,34.60: 
-Building_Shop6_Editor:-527.74,35.31,-2106.72:0.00,270.00,0.00:36.00,33.80,36.00: 
-Building_Shop5_Editor:-448.16,17.17,-1701.14:0.00,270.00,0.00:52.70,52.70,52.70: 
-Building_Shop4_Editor:-1434.93,22.17,-1960.49:0.00,270.00,0.00:22.60,22.60,22.60: 
-Building_Shop3_Editor:-1018.59,19.71,-1466.24:0.00,270.00,0.00:34.40,35.10,34.30: 
-Building_Shop2_Editor:-1324.04,28.41,-1350.86:0.00,270.00,0.00:34.60,34.60,34.60: 
-Building_Shop1_Editor:-1266.35,17.63,-849.75:0.00,270.00,0.00:39.20,40.00,39.20: 
-Road_NoSidewalk_Mid_Editor:-3.72,-101.20,-0.63:0.00,0.00,0.00:110.00,110.80,110.00: 
-Building_Shop_Close2_Editor:-370.70,35.76,-1050.95:0.00,270.00,0.00:9.70,8.20,9.70: 
-Building10_Editor:-1618.07,15.53,1620.45:0.00,120.00,0.00:1.00,1.00,1.00: 
-Door_Elevator_Editor:-1363.56,42.33,1380.26:0.00,31.00,0.00:1.00,1.00,1.00: 
-Door_Elevator_Editor:-1619.47,27.04,1642.51:0.00,30.00,0.00:1.00,1.00,1.00: 
-Point_Light_Editor:-1475.54,33.77,-1460.68:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{54,40,0,1}
-Building_Shop_Close3_Editor:1139.43,-10.30,-347.94:0.00,0.00,0.00:2.20,2.20,2.20: 
-Trigger_Box_Editor:1136.61,9.98,-347.67:0.00,0.00,0.00:0.70,4.40,6.70:mode{enter}|tip{выход.}|teleporte{-1614.1, 26.8, -1962.5}
-Trigger_Box_Editor:-1532.09,28.04,-1871.10:0.00,19.00,0.00:3.00,3.00,3.00:mode{enter}|tip{подъезд.}|teleport{-1517.4, 16.5, -1870.5}|draw{halo2}
-Building_Shop_Close1_Editor:-1520.44,16.50,-1874.73:90.00,180.00,0.00:1.10,1.10,1.10: 
-UI_Scalable_Editor:-1517.96,10.00,-1873.81:0.00,0.00,0.00:14.80,15.30,1.00:insert text 
-Trigger_Box_Editor:-1526.18,17.50,-1868.20:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false}|tip{дом}|teleport{-1653.9, 6.9, 1298.5}|draw{halo2}
-Building_Shop_Close3_Editor:-1663.67,6.20,1297.61:0.00,0.00,0.00:3.00,3.00,3.20: 
-Trigger_Box_Editor:-1656.63,8.18,1293.39:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{подъезд}|teleport{-1521.8, 17.1, -1868.8}
-Trigger_Box_Editor:-1768.95,4.61,-1856.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|tip{<color=red>Вы уволились с работы шахтёра...</color>}|player{role*БЕЗРАБОТНЫЙ}|player{mask*0}|chat{/heistbag}|player{emote*Em_GrabFromFloor}|draw{halo1}
-Trigger_Box_Editor:-1745.01,5.00,-1885.55:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР&&inventory;необычная руда>0}|inventory{remove*необычная руда}|inventory{add*Рублей*+500}|tip{<color=green>+500₽</color>}|player{emote*Em_GrabFromFloor}
-Trigger_Box_Editor:-1721.29,4.92,-1868.07:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|inventory{add*обычная руда*1}|tip{<color=green>Вы подобрали</color> <color=orange>обычную руду</color>}|player{emote*Em_GrabFromFloor}|draw{wrench1}|cooldown{5}
-Trigger_Box_Editor:-1727.33,4.82,-1876.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|inventory{add*необычная руда*1}|tip{<color=green>Вы подобрали</color> <color=blue>необычную руду</color>}|player{emote*Em_GrabFromFloor}|draw{wrench}|cooldown{5}
-Trigger_Box_Editor:-1745.01,5.00,-1886.55:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР&&inventory;обычная руда>0}|inventory{remove*обычная руда}|inventory{add*Рублей*+100}|tip{<color=green>+100₽</color>}|player{emote*Em_GrabFromFloor}
-Trigger_Box_Editor:-1745.01,5.00,-1886.05:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|draw{dollar}
-Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
-Block_Scalable_Editor:-1477.89,27.03,-438.04:0.00,0.00,0.00:42.30,0.10,39.30:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1457.31,27.13,-418.88:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1457.25,27.13,-457.13:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1498.53,27.13,-457.22:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1498.52,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1475.02,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1479.92,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
-Door_Editor:-1475.56,27.13,-418.62:0.00,180.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
-Door_Editor:-1479.44,27.13,-418.62:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1498.07,31.83,-418.94:90.00,90.00,0.00:1.00,40.30,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1477.89,42.13,-438.04:0.00,0.00,0.00:42.30,0.10,39.30:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1498.07,31.83,-457.14:90.00,90.00,0.00:1.00,40.30,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1457.30,31.83,-419.33:0.00,270.00,90.00:1.00,37.30,1.00:color{1.00,1.00,1.00}
-Block_Scalable_Editor:-1498.49,31.83,-419.33:0.00,270.00,90.00:1.00,37.30,1.00:color{1.00,1.00,1.00}
-Glass_Scalable_Editor:-1498.05,34.53,-418.89:90.00,90.00,0.00:0.50,17.70,15.30:color{0.72,0.86,1.00}
-Glass_Scalable_Editor:-1474.56,34.53,-418.89:90.00,90.00,0.00:0.50,17.70,15.30:color{0.72,0.86,1.00}
-Glass_Scalable_Editor:-1479.56,37.23,-418.89:90.00,90.00,0.00:0.50,4.30,9.80:color{0.72,0.86,1.00}
-Glass_Scalable_Editor:-1498.05,34.53,-457.10:90.00,90.00,0.00:0.50,40.30,15.30:color{0.72,0.86,1.00}
-Glass_Scalable_Editor:-1457.26,34.53,-419.36:270.00,0.00,0.00:0.50,37.40,15.30:color{0.72,0.86,1.00}
-Glass_Scalable_Editor:-1498.55,34.53,-419.36:270.00,0.00,0.00:0.50,37.40,15.30:color{0.72,0.86,1.00}
-Table_Plastic_Editor:-1476.77,27.13,-442.74:0.00,0.00,0.00:1.00,1.00,1.00:color{0.80,0.80,0.80}
-Chair_Plastic_Editor:-1477.17,27.13,-445.23:0.00,0.00,0.00:1.00,1.00,1.00:color{0.80,0.80,0.80}
-Npc_Char4_Editor:-1477.08,27.43,-445.28:0.00,0.00,0.00:1.00,1.00,1.00:animation{Rapping}
-Trigger_Box_Editor:-1477.04,28.22,-445.59:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|npcanimation{Sitting*1*false}
-Trigger_Box_Editor:-5996.98,603.00,607.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>99999&&inventory;vehicles!=pride}|header{<color=green>+pride</color>}|tip{<color=red>-100.000₽</color>}|inventory{add*Рублей*-100000}|inventory{add*vehicles*pride}
-Trigger_Box_Editor:-5995.98,603.00,609.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>249999&&inventory;vehicles!=elissan}|header{<color=green>+elissan</color>}|tip{<color=red>-250.000₽</color>}|inventory{add*Рублей*-250000}|inventory{add*vehicles*elissan}
-Trigger_Box_Editor:-5994.98,603.00,611.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>499999&&inventory;vehicles!=king}|header{<color=green>+king</color>}|tip{<color=red>-500.000₽</color>}|inventory{add*Рублей*-500000}|inventory{add*vehicles*king}
-Trigger_Box_Editor:-5993.98,603.00,613.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>749999&&inventory;vehicles!=zupra}|header{<color=green>+zupra</color>}|tip{<color=red>-750.000₽</color>}|inventory{add*Рублей*-750000}|inventory{add*vehicles*zupra}
-Trigger_Box_Editor:-5992.98,603.00,615.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>999999&&inventory;vehicles!=marock}|header{<color=green>+marock</color>}|tip{<color=red>-1.000.000₽</color>}|inventory{add*Рублей*-1000000}|inventory{add*vehicles*marock}
-Trigger_Box_Editor:-6000.87,612.01,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-5997, 603, 608*-5999, 603, 606*999}
-Trigger_Box_Editor:-5999.97,612.01,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-5996, 603, 610*-5999, 603, 606*999}
-Trigger_Box_Editor:-5998.87,612.01,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5995, 603, 612*-5999, 603, 606*999}
-Trigger_Box_Editor:-5997.77,612.01,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5994, 603, 614*-5999, 603, 606*999}
-Trigger_Box_Editor:-5996.77,612.01,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5993, 603, 616*-5999, 603, 606*999}
-Trigger_Box_Editor:-1696.21,28.27,-442.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1699.99,40.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-1700, 44, -440*10}
-Trigger_Box_Editor:-1690.11,28.27,-442.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1675.66,28.27,-442.67:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1670.38,28.27,-442.63:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1711.38,28.27,-442.13:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1716.46,28.27,-441.75:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-1699.99,43.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Рублей*-7000}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-7000₽</color>}
-Trigger_Box_Editor:-1704.99,41.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-7500₽</color>}|inventory{add*Рублей*-7500}
-Trigger_Box_Editor:-1670.46,28.27,-442.61:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-904.02,899.95,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{interactionmenuclick=Аптечка&&isinvehicle=false&&inventory;Аптечка>0}|player{emote*Em_WorkingOnDevice}|tip{Вы использовали аптечку, <color=red> - 1 Аптечка</color>  Не двигайтесь}|calltriggerbox{-904, 903, -900*10}|inventory{add*Аптечка*-1}
-Trigger_Box_Editor:-904.02,899.95,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;exp>17}|inventory{add*level*+1}|inventory{add*exp*0}|tip{<color=green>Вы повысили уровень!</color>}|chat{(private)<color=green>Вы повысили уровень!</color>}
-Trigger_Box_Editor:-901.02,899.95,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|inventory{add*exp*+1}|tip{+1 exp}|cooldown{600}
-Trigger_Box_Editor:-904.02,910.05,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{ishost=true}|chat{/servername <size=35> <color=yellow>UNITY</color> <color=white>RP</color></size>        <size=25><color=green>ДЕНЬГИ; (Рублей)</color>    <color=white>xp; (exp)     lvl;(level)</color></size>}|deactivate{}
-Trigger_Box_Editor:-904.02,905.05,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=щовэль}|chat{ешкере}|player{role*ADMIN}|tip{вы стали админчекам}
-Trigger_Box_Editor:-904.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 100.000&&role=ADMIN}|chat{(private) Вам было выдано 100.000₽}|tip{Вам было выдано 100.000₽}|inventory{add*Рублей*+100000}
-Trigger_Box_Editor:-901.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 250.000&&role=ADMIN}|chat{(private) Вам было выдано 250.000₽}|tip{Вам было выдано 250.000₽}|inventory{add*Рублей*+250000}
-Trigger_Box_Editor:-898.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 500.000&&role=ADMIN}|chat{(private) Вам было выдано 500.000₽}|tip{Вам было выдано 500.000₽}|inventory{add*Рублей*+500000}
-Trigger_Box_Editor:-895.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 1.000.000&&role=ADMIN}|chat{(private) Вам было выдано 1.000.000₽}|tip{Вам было выдано 1.000.000₽}|inventory{add*Рублей*+1000000}
-Trigger_Box_Editor:-904.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 100.000&&role=ADMIN}|chat{(private) У вас было удалено 100.000₽}|tip{у вас было удалено 100.000₽}|inventory{add*Рублей*-100000}
-Trigger_Box_Editor:-901.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 250.000&&role=ADMIN}|chat{(private) У вас было удалено 250.000₽}|tip{у вас было удалено 250.000₽}|inventory{add*Рублей*-250000}
-Trigger_Box_Editor:-898.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 500.000&&role=ADMIN}|chat{(private) У вас было удалено 500.000₽}|tip{у вас было удалено 500.000₽}|inventory{add*Рублей*-500000}
-Trigger_Box_Editor:-895.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 1.000.000&&role=ADMIN}|chat{(private) У вас было удалено 1.000.000₽}|tip{у вас было удалено 1.000.000₽}|inventory{add*Рублей*-1000000}
-Trigger_Box_Editor:-904.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 1&&role=ADMIN}|chat{(private) Вам было выдано 1 exp}|tip{Вам было выдано 1 exp}|inventory{add*exp*+1}
-Trigger_Box_Editor:-901.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 2&&role=ADMIN}|chat{(private) Вам было выдано 2 exp}|tip{Вам было выдано 2 exp}|inventory{add*exp*+2}
-Trigger_Box_Editor:-898.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 4&&role=ADMIN}|chat{(private) Вам было выдано 4 exp}|tip{Вам было выдано 4 exp}|inventory{add*exp*+4}
-Trigger_Box_Editor:-895.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 8&&role=ADMIN}|chat{(private) Вам было выдано 8 exp}|tip{Вам было выдано 8 exp}|inventory{add*exp*+8}
-Trigger_Box_Editor:-892.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 16&&role=ADMIN}|chat{(private) Вам было выдано 16 exp}|tip{Вам было выдано 16 exp}|inventory{add*exp*+16}
-Trigger_Box_Editor:-889.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 18&&role=ADMIN}|chat{(private) Вам было выдано 18 exp}|tip{Вам было выдано 18 exp}|inventory{add*exp*+18}
-Trigger_Box_Editor:-904.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 1&&role=ADMIN}|chat{(private) У вас было удалено 1 exp}|tip{У вас было удалено 1 exp}|inventory{add*exp*-1}
-Trigger_Box_Editor:-901.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 2&&role=ADMIN}|chat{(private) У вас было удалено 2 exp}|tip{У вас было удалено 2 exp}|inventory{add*exp*-2}
-Trigger_Box_Editor:-898.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 4&&role=ADMIN}|chat{(private) У вас было удалено 4 exp}|tip{У вас было удалено 4 exp}|inventory{add*exp*-4}
-Trigger_Box_Editor:-895.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 8&&role=ADMIN}|chat{(private) У вас было удалено 8 exp}|tip{У вас было удалено 8 exp}|inventory{add*exp*-8}
-Trigger_Box_Editor:-892.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 16&&role=ADMIN}|chat{(private) У вас было удалено 16 exp}|tip{У вас было удалено 16 exp}|inventory{add*exp*-16}
-Trigger_Box_Editor:-886.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp all&&role=ADMIN}|chat{(private) У вас было удалено все exp}|tip{У вас было удалено все exp}|inventory{add*exp*0}
-Trigger_Box_Editor:-892.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей all&&role=ADMIN}|chat{(private) У вас было удалено все ₽}|tip{у вас было удалено все ₽}|inventory{add*Рублей*0}
-Trigger_Box_Editor:-901.02,899.95,-889.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|inventory{add*exp*-1}|deactivate{}
-Trigger_Box_Editor:-1675.84,28.27,-442.60:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-1690.12,28.27,-442.56:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-1696.23,28.27,-443.09:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-1711.35,28.27,-442.11:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-1716.39,28.27,-441.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
-Trigger_Box_Editor:-860.71,28.64,-770.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
-Trigger_Box_Editor:-900.39,28.64,-770.71:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-885.56,28.64,-770.10:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-879.18,28.64,-769.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-865.25,28.64,-770.73:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-860.76,28.64,-770.64:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
-Trigger_Box_Editor:-439.46,36.28,-933.26:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-439.19,36.28,-943.94:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-439.26,36.28,-948.23:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-438.65,36.28,-958.10:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-439.47,36.28,-962.79:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-452.89,36.28,-962.80:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-452.91,36.28,-958.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-454.54,36.28,-949.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-454.01,36.28,-944.39:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-454.57,36.28,-933.57:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Trigger_Box_Editor:-454.26,36.28,-930.75:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
-Road_Editor:-1446.69,24.24,-1870.01:0.00,20.00,0.00:0.90,1.00,0.90: 
-Road_NoSidewalk_Editor:-1440.69,25.17,-1802.84:0.00,292.00,0.00:0.90,1.00,5.90: 
-Road_Editor:-1523.01,22.24,-1768.79:0.00,292.00,0.00:1.00,1.00,1.60: 
-Road_NoSidewalk_Editor:-1756.40,26.97,-1672.64:0.00,297.00,0.00:0.70,0.70,0.10: 
-Road_NoSidewalk_Editor:-1764.79,26.97,-1663.46:0.00,327.00,0.00:0.70,0.70,0.20: 
-Road_NoSidewalk_Editor:-1767.42,26.97,-1659.34:0.00,327.00,0.00:0.70,0.70,0.20: 
-Road_NoSidewalk_Editor:-1773.49,26.97,-1642.12:0.00,351.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1773.49,26.97,-1642.12:0.00,351.00,0.00:0.70,0.80,0.20: 
-Road_Editor:-1645.64,25.94,-1797.36:0.00,20.00,0.00:0.90,1.00,1.00: 
-Road_Editor:-1718.33,24.14,-1997.85:0.00,20.00,0.00:0.90,1.00,1.60: 
-Road_Editor:-1661.91,24.94,-2144.32:0.00,112.00,0.00:0.90,1.00,1.60: 
-Road_Editor:-1526.60,23.84,-2089.63:0.00,20.00,0.00:0.90,1.00,1.60: 
-Road_Editor:-1677.39,23.84,-1884.79:0.00,20.00,0.00:0.90,1.00,1.60: 
-Road_NoSidewalk_Editor:-1498.03,26.17,-1869.46:0.00,20.00,0.00:0.50,1.00,1.00: 
-Road_NoSidewalk_Editor:-1536.67,26.07,-1853.76:0.00,20.00,0.00:0.50,1.00,1.00: 
-Road_NoSidewalk_Editor:-1603.45,26.07,-1826.56:0.00,20.00,0.00:0.50,1.00,1.00: 
-Road_NoSidewalk_Editor:-1631.33,25.47,-1879.47:0.00,106.00,0.00:0.50,1.00,0.30: 
-Road_NoSidewalk_Editor:-1601.51,25.87,-1889.51:0.00,111.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1579.01,25.67,-1899.09:0.00,114.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1537.18,25.77,-1916.79:0.00,112.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1494.45,26.17,-1933.00:0.00,111.00,0.00:0.50,1.00,0.40: 
-Road_NoSidewalk_Editor:-1420.56,26.17,-1419.30:0.00,94.00,0.00:0.90,1.00,1.90: 
-Road_NoSidewalk_Editor:-34.43,26.37,-2003.46:0.00,185.00,0.00:0.90,0.70,2.20: 
-Road_NoSidewalk_Editor:-17.26,26.37,-1813.30:0.00,185.00,0.00:0.90,0.70,1.30: 
-Road_NoSidewalk_Editor:-13.25,26.37,-1733.08:0.00,159.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-16.07,26.37,-1726.07:0.00,159.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-24.82,26.37,-1712.48:0.00,132.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-40.35,26.37,-1702.88:0.00,112.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-86.24,26.37,-1691.20:0.00,102.00,0.00:0.90,0.70,0.70: 
-Road_NoSidewalk_Editor:-300.42,26.37,-1648.96:0.00,101.00,0.00:0.90,0.70,3.10: 
-Road_NoSidewalk_Editor:-509.31,26.37,-1607.88:0.00,102.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-576.87,26.37,-1594.22:0.00,101.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-644.63,26.37,-1580.47:0.00,102.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-712.08,26.37,-1566.14:0.00,102.00,0.00:0.90,0.70,0.60: 
-Road_NoSidewalk_Editor:-756.87,26.37,-1556.99:0.00,102.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-785.89,26.37,-1552.38:0.00,98.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:-818.06,26.37,-1546.61:0.00,106.00,0.00:0.90,0.70,0.20: 
-Road_NoSidewalk_Editor:-848.41,26.37,-1534.63:0.00,115.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:-890.09,26.37,-1515.26:0.00,115.00,0.00:0.90,0.70,0.40: 
-Road_NoSidewalk_Editor:-930.97,26.37,-1496.18:0.00,115.00,0.00:0.90,0.70,0.40: 
-Block_Scalable_Editor:-1036.59,25.84,-1449.95:0.00,20.00,0.00:64.90,1.00,7.50:color{0.52,0.63,0.51} material{Grass_Field,0.25}
-Road_NoSidewalk_Editor:-873.03,26.77,-1373.41:0.00,110.00,0.00:0.60,0.70,0.70: 
-Road_NoSidewalk_Editor:-857.61,26.77,-1325.80:0.00,110.00,0.00:0.80,0.70,0.70: 
-Road_NoSidewalk_Editor:-842.23,26.77,-1359.43:0.00,200.00,0.00:1.20,0.70,0.40: 
-Road_NoSidewalk_Editor:-55.06,26.37,-2242.56:0.00,185.00,0.00:0.90,0.70,2.20: 
-Road_NoSidewalk_Editor:-153.08,26.27,-2122.17:0.00,276.00,0.00:0.90,0.70,1.80: 
-Road_NoSidewalk_Editor:-358.48,25.97,-2102.37:0.00,275.00,0.00:0.90,0.70,1.80: 
-Road_NoSidewalk_Editor:-548.95,25.87,-2083.95:0.00,276.00,0.00:0.90,0.70,1.80: 
-Road_NoSidewalk_Editor:-844.32,26.17,-858.73:0.00,180.00,0.00:0.90,1.00,2.90: 
-Road_NoSidewalk_Editor:-846.72,26.17,-683.49:0.00,170.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-852.20,26.17,-661.54:0.00,160.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-864.11,26.17,-637.30:0.00,147.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-883.54,26.17,-612.12:0.00,138.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-903.17,26.17,-591.89:0.00,132.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-920.04,26.17,-577.51:0.00,129.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-947.65,26.17,-558.12:0.00,123.00,0.00:0.90,1.00,0.40: 
-Road_NoSidewalk_Editor:-1027.20,26.17,-849.75:0.00,180.00,0.00:0.90,1.00,2.90: 
-Road_NoSidewalk_Editor:-1027.24,26.17,-628.98:0.00,180.00,0.00:0.90,1.00,1.00: 
-Road_NoSidewalk_Editor:-1025.08,25.37,-562.01:0.00,270.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-1012.13,25.37,-561.40:0.00,263.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-998.93,25.37,-558.82:0.00,256.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-984.31,26.27,-553.55:0.00,237.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-974.97,26.07,-542.47:0.00,217.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-893.58,26.27,-774.56:0.00,180.00,0.00:3.20,1.00,0.60: 
-Road_NoSidewalk_Editor:-893.76,26.27,-765.54:0.00,180.00,0.00:3.20,1.00,0.60: 
-Road_NoSidewalk_Editor:-912.78,25.97,-875.35:0.00,180.00,0.00:0.50,1.00,1.20: 
-Road_NoSidewalk_Editor:-969.59,26.07,-948.46:0.00,270.00,0.00:0.50,1.00,1.00: 
-Road_NoSidewalk_Editor:-1173.08,26.17,-1019.34:0.00,90.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-977.79,26.17,-1019.18:0.00,90.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-782.00,26.17,-1019.00:0.00,90.00,0.00:0.90,1.00,1.70: 
-Road_NoSidewalk_Editor:-663.45,26.17,-1019.63:0.00,91.00,0.00:0.90,1.00,0.40: 
-Road_NoSidewalk_Editor:-630.84,26.17,-1018.32:0.00,80.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-609.43,26.17,-1013.39:0.00,72.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-589.35,26.17,-1005.32:0.00,65.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-580.54,26.17,-997.30:0.00,44.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-569.80,20.57,-980.06:0.00,24.00,0.00:0.90,1.00,0.20: 
-Road_NoSidewalk_Editor:-563.39,25.27,-964.30:0.00,21.00,0.00:0.90,1.00,0.10: 
-Road_NoSidewalk_Editor:-1261.44,26.17,-772.37:0.00,180.00,0.00:0.90,1.00,4.40: 
-Road_NoSidewalk_Editor:-1192.41,23.77,-912.17:0.00,270.00,0.00:0.50,1.00,1.20: 
-Road_NoSidewalk_Editor:-1126.29,23.77,-807.92:0.00,0.00,0.00:0.70,1.00,1.90: 
-Road_NoSidewalk_Editor:-1258.75,26.30,-515.94:0.00,93.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1217.03,26.30,-511.19:0.00,78.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1238.44,26.30,-514.81:0.00,81.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1194.63,26.30,-506.46:0.00,78.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1173.56,26.30,-503.43:0.00,84.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1152.33,26.30,-501.62:0.00,86.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1129.96,26.30,-500.80:0.00,90.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1107.53,26.30,-500.67:0.00,89.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1088.72,26.20,-500.24:0.00,89.00,0.00:0.70,0.80,0.20: 
-Road_NoSidewalk_Editor:-1394.71,25.97,-732.18:0.00,358.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1393.04,26.07,-742.53:0.00,344.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1390.11,26.07,-752.85:0.00,344.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-1388.61,25.97,-831.02:0.00,0.00,0.00:0.40,1.00,1.30: 
-Road_NoSidewalk_Editor:-1388.57,26.07,-928.70:0.00,0.00,0.00:0.40,1.00,0.40: 
-Road_NoSidewalk_Editor:-1390.12,26.07,-966.24:0.00,6.00,0.00:0.40,1.00,0.30: 
-Road_NoSidewalk_Editor:-1334.52,26.07,-943.12:0.00,0.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1335.32,26.07,-965.77:0.00,4.00,0.00:0.40,1.00,0.20: 
-Road_NoSidewalk_Editor:-1336.89,26.07,-982.76:0.00,8.00,0.00:0.40,1.00,0.10: 
-Road_NoSidewalk_Editor:-559.91,25.97,-948.32:0.00,14.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-552.36,28.27,-915.68:0.00,12.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-545.42,27.97,-882.72:0.00,12.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-538.84,30.77,-850.08:0.00,11.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-532.33,32.07,-816.18:0.00,11.00,0.00:0.90,1.00,0.30: 
-Road_NoSidewalk_Editor:-527.31,32.67,-788.68:0.00,11.00,0.00:0.90,1.00,0.30: 
-Trigger_Box_Editor:-1613.51,28.24,1652.07:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*3,4*-1618.2,1644.4}|deactivate{0.1}
-Trigger_Box_Editor:-1308.49,27.93,-1147.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|teleport{-4500.1,263,-600.3}|draw{halo2}
-Trigger_Box_Editor:-1304.85,28.03,-1156.48:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*2,5*-1309.4,-1148.1}|deactivate{0.1}
-Building8_Editor:-4504.45,262.34,-604.08:0.00,0.00,0.00:0.70,0.70,0.70: 
-Trigger_Box_Editor:-4495.43,262.94,-599.91:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|teleport{-1300.4,28,-1148.9}|draw{halo2}
-Chair_Wooden_Editor:-4509.44,262.34,-601.72:0.00,81.00,0.00:1.00,1.00,1.00: 
-Chair_Wooden_Editor:-4495.64,262.12,-603.85:0.00,270.00,0.00:0.10,0.10,0.10: 
 Spawn_Point_Editor:-1763.65,3.51,-1861.77:0.00,0.00,0.00:1.00,1.00,1.00: 
+Chair_Wooden_Editor:-4495.64,262.12,-603.85:0.00,270.00,0.00:0.10,0.10,0.10: 
+Chair_Wooden_Editor:-4509.44,262.34,-601.72:0.00,81.00,0.00:1.00,1.00,1.00: 
+Trigger_Box_Editor:-4495.43,262.94,-599.91:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|teleport{-1300.4,28,-1148.9}|draw{halo2}
+Building8_Editor:-4504.45,262.34,-604.08:0.00,0.00,0.00:0.70,0.70,0.70: 
+Trigger_Box_Editor:-1304.85,28.03,-1156.48:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*2,5*-1309.4,-1148.1}|deactivate{0.1}
+Trigger_Box_Editor:-1308.49,27.93,-1147.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|teleport{-4500.1,263,-600.3}|draw{halo2}
+Trigger_Box_Editor:-1613.51,28.24,1652.07:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*3,4*-1618.2,1644.4}|deactivate{0.1}
+Road_NoSidewalk_Editor:-527.31,32.67,-788.68:0.00,11.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-532.33,32.07,-816.18:0.00,11.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-538.84,30.77,-850.08:0.00,11.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-545.42,27.97,-882.72:0.00,12.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-552.36,28.27,-915.68:0.00,12.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-559.91,25.97,-948.32:0.00,14.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-1336.89,26.07,-982.76:0.00,8.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1335.32,26.07,-965.77:0.00,4.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1334.52,26.07,-943.12:0.00,0.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1390.12,26.07,-966.24:0.00,6.00,0.00:0.40,1.00,0.30: 
+Road_NoSidewalk_Editor:-1388.57,26.07,-928.70:0.00,0.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1388.61,25.97,-831.02:0.00,0.00,0.00:0.40,1.00,1.30: 
+Road_NoSidewalk_Editor:-1390.11,26.07,-752.85:0.00,344.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1393.04,26.07,-742.53:0.00,344.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1394.71,25.97,-732.18:0.00,358.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1088.72,26.20,-500.24:0.00,89.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1107.53,26.30,-500.67:0.00,89.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1129.96,26.30,-500.80:0.00,90.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1152.33,26.30,-501.62:0.00,86.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1173.56,26.30,-503.43:0.00,84.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1194.63,26.30,-506.46:0.00,78.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1238.44,26.30,-514.81:0.00,81.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1217.03,26.30,-511.19:0.00,78.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1258.75,26.30,-515.94:0.00,93.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1126.29,23.77,-807.92:0.00,0.00,0.00:0.70,1.00,1.90: 
+Road_NoSidewalk_Editor:-1192.41,23.77,-912.17:0.00,270.00,0.00:0.50,1.00,1.20: 
+Road_NoSidewalk_Editor:-1261.44,26.17,-772.37:0.00,180.00,0.00:0.90,1.00,4.40: 
+Road_NoSidewalk_Editor:-563.39,25.27,-964.30:0.00,21.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-569.80,20.57,-980.06:0.00,24.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-580.54,26.17,-997.30:0.00,44.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-589.35,26.17,-1005.32:0.00,65.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-609.43,26.17,-1013.39:0.00,72.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-630.84,26.17,-1018.32:0.00,80.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-663.45,26.17,-1019.63:0.00,91.00,0.00:0.90,1.00,0.40: 
+Road_NoSidewalk_Editor:-782.00,26.17,-1019.00:0.00,90.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-977.79,26.17,-1019.18:0.00,90.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1173.08,26.17,-1019.34:0.00,90.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-969.59,26.07,-948.46:0.00,270.00,0.00:0.50,1.00,1.00: 
+Road_NoSidewalk_Editor:-912.78,25.97,-875.35:0.00,180.00,0.00:0.50,1.00,1.20: 
+Road_NoSidewalk_Editor:-893.76,26.27,-765.54:0.00,180.00,0.00:3.20,1.00,0.60: 
+Road_NoSidewalk_Editor:-893.58,26.27,-774.56:0.00,180.00,0.00:3.20,1.00,0.60: 
+Road_NoSidewalk_Editor:-974.97,26.07,-542.47:0.00,217.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-984.31,26.27,-553.55:0.00,237.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-998.93,25.37,-558.82:0.00,256.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1012.13,25.37,-561.40:0.00,263.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1025.08,25.37,-562.01:0.00,270.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1027.24,26.17,-628.98:0.00,180.00,0.00:0.90,1.00,1.00: 
+Road_NoSidewalk_Editor:-1027.20,26.17,-849.75:0.00,180.00,0.00:0.90,1.00,2.90: 
+Road_NoSidewalk_Editor:-947.65,26.17,-558.12:0.00,123.00,0.00:0.90,1.00,0.40: 
+Road_NoSidewalk_Editor:-920.04,26.17,-577.51:0.00,129.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-903.17,26.17,-591.89:0.00,132.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-883.54,26.17,-612.12:0.00,138.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-864.11,26.17,-637.30:0.00,147.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-852.20,26.17,-661.54:0.00,160.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-846.72,26.17,-683.49:0.00,170.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-844.32,26.17,-858.73:0.00,180.00,0.00:0.90,1.00,2.90: 
+Road_NoSidewalk_Editor:-548.95,25.87,-2083.95:0.00,276.00,0.00:0.90,0.70,1.80: 
+Road_NoSidewalk_Editor:-358.48,25.97,-2102.37:0.00,275.00,0.00:0.90,0.70,1.80: 
+Road_NoSidewalk_Editor:-153.08,26.27,-2122.17:0.00,276.00,0.00:0.90,0.70,1.80: 
+Road_NoSidewalk_Editor:-55.06,26.37,-2242.56:0.00,185.00,0.00:0.90,0.70,2.20: 
+Road_NoSidewalk_Editor:-842.23,26.77,-1359.43:0.00,200.00,0.00:1.20,0.70,0.40: 
+Road_NoSidewalk_Editor:-857.61,26.77,-1325.80:0.00,110.00,0.00:0.80,0.70,0.70: 
+Road_NoSidewalk_Editor:-873.03,26.77,-1373.41:0.00,110.00,0.00:0.60,0.70,0.70: 
+Block_Scalable_Editor:-1036.59,25.84,-1449.95:0.00,20.00,0.00:64.90,1.00,7.50:color{0.52,0.63,0.51} material{Grass_Field,0.25}
+Road_NoSidewalk_Editor:-930.97,26.37,-1496.18:0.00,115.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:-890.09,26.37,-1515.26:0.00,115.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:-848.41,26.37,-1534.63:0.00,115.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:-818.06,26.37,-1546.61:0.00,106.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-785.89,26.37,-1552.38:0.00,98.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:-756.87,26.37,-1556.99:0.00,102.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-712.08,26.37,-1566.14:0.00,102.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-644.63,26.37,-1580.47:0.00,102.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-576.87,26.37,-1594.22:0.00,101.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-509.31,26.37,-1607.88:0.00,102.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-300.42,26.37,-1648.96:0.00,101.00,0.00:0.90,0.70,3.10: 
+Road_NoSidewalk_Editor:-86.24,26.37,-1691.20:0.00,102.00,0.00:0.90,0.70,0.70: 
+Road_NoSidewalk_Editor:-40.35,26.37,-1702.88:0.00,112.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-24.82,26.37,-1712.48:0.00,132.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-16.07,26.37,-1726.07:0.00,159.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-13.25,26.37,-1733.08:0.00,159.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-17.26,26.37,-1813.30:0.00,185.00,0.00:0.90,0.70,1.30: 
+Road_NoSidewalk_Editor:-34.43,26.37,-2003.46:0.00,185.00,0.00:0.90,0.70,2.20: 
+Road_NoSidewalk_Editor:-1420.56,26.17,-1419.30:0.00,94.00,0.00:0.90,1.00,1.90: 
+Road_NoSidewalk_Editor:-1494.45,26.17,-1933.00:0.00,111.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1537.18,25.77,-1916.79:0.00,112.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1579.01,25.67,-1899.09:0.00,114.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1601.51,25.87,-1889.51:0.00,111.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1631.33,25.47,-1879.47:0.00,106.00,0.00:0.50,1.00,0.30: 
+Road_NoSidewalk_Editor:-1603.45,26.07,-1826.56:0.00,20.00,0.00:0.50,1.00,1.00: 
+Road_NoSidewalk_Editor:-1536.67,26.07,-1853.76:0.00,20.00,0.00:0.50,1.00,1.00: 
+Road_NoSidewalk_Editor:-1498.03,26.17,-1869.46:0.00,20.00,0.00:0.50,1.00,1.00: 
+Road_Editor:-1677.39,23.84,-1884.79:0.00,20.00,0.00:0.90,1.00,1.60: 
+Road_Editor:-1526.60,23.84,-2089.63:0.00,20.00,0.00:0.90,1.00,1.60: 
+Road_Editor:-1661.91,24.94,-2144.32:0.00,112.00,0.00:0.90,1.00,1.60: 
+Road_Editor:-1718.33,24.14,-1997.85:0.00,20.00,0.00:0.90,1.00,1.60: 
+Road_Editor:-1645.64,25.94,-1797.36:0.00,20.00,0.00:0.90,1.00,1.00: 
+Road_NoSidewalk_Editor:-1773.49,26.97,-1642.12:0.00,351.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1773.49,26.97,-1642.12:0.00,351.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1767.42,26.97,-1659.34:0.00,327.00,0.00:0.70,0.70,0.20: 
+Road_NoSidewalk_Editor:-1764.79,26.97,-1663.46:0.00,327.00,0.00:0.70,0.70,0.20: 
+Road_NoSidewalk_Editor:-1756.40,26.97,-1672.64:0.00,297.00,0.00:0.70,0.70,0.10: 
+Road_Editor:-1523.01,22.24,-1768.79:0.00,292.00,0.00:1.00,1.00,1.60: 
+Road_NoSidewalk_Editor:-1440.69,25.17,-1802.84:0.00,292.00,0.00:0.90,1.00,5.90: 
+Road_Editor:-1446.69,24.24,-1870.01:0.00,20.00,0.00:0.90,1.00,0.90: 
+Trigger_Box_Editor:-454.26,36.28,-930.75:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-454.57,36.28,-933.57:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-454.01,36.28,-944.39:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-454.54,36.28,-949.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-452.91,36.28,-958.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-452.89,36.28,-962.80:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-439.47,36.28,-962.79:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-438.65,36.28,-958.10:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-439.26,36.28,-948.23:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-439.19,36.28,-943.94:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-439.46,36.28,-933.26:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-860.76,28.64,-770.64:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-865.25,28.64,-770.73:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-879.18,28.64,-769.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-885.56,28.64,-770.10:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-900.39,28.64,-770.71:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-860.71,28.64,-770.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1716.39,28.27,-441.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-1711.35,28.27,-442.11:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-1696.23,28.27,-443.09:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-1690.12,28.27,-442.56:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-1675.84,28.27,-442.60:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-901.02,899.95,-889.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|inventory{add*exp*-1}|deactivate{}
+Trigger_Box_Editor:-892.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей all&&role=ADMIN}|chat{(private) У вас было удалено все ₽}|tip{у вас было удалено все ₽}|inventory{add*Рублей*0}
+Trigger_Box_Editor:-886.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp all&&role=ADMIN}|chat{(private) У вас было удалено все exp}|tip{У вас было удалено все exp}|inventory{add*exp*0}
+Trigger_Box_Editor:-892.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 16&&role=ADMIN}|chat{(private) У вас было удалено 16 exp}|tip{У вас было удалено 16 exp}|inventory{add*exp*-16}
+Trigger_Box_Editor:-895.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 8&&role=ADMIN}|chat{(private) У вас было удалено 8 exp}|tip{У вас было удалено 8 exp}|inventory{add*exp*-8}
+Trigger_Box_Editor:-898.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 4&&role=ADMIN}|chat{(private) У вас было удалено 4 exp}|tip{У вас было удалено 4 exp}|inventory{add*exp*-4}
+Trigger_Box_Editor:-901.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 2&&role=ADMIN}|chat{(private) У вас было удалено 2 exp}|tip{У вас было удалено 2 exp}|inventory{add*exp*-2}
+Trigger_Box_Editor:-904.02,905.05,-878.88:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove exp 1&&role=ADMIN}|chat{(private) У вас было удалено 1 exp}|tip{У вас было удалено 1 exp}|inventory{add*exp*-1}
+Trigger_Box_Editor:-889.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 18&&role=ADMIN}|chat{(private) Вам было выдано 18 exp}|tip{Вам было выдано 18 exp}|inventory{add*exp*+18}
+Trigger_Box_Editor:-892.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 16&&role=ADMIN}|chat{(private) Вам было выдано 16 exp}|tip{Вам было выдано 16 exp}|inventory{add*exp*+16}
+Trigger_Box_Editor:-895.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 8&&role=ADMIN}|chat{(private) Вам было выдано 8 exp}|tip{Вам было выдано 8 exp}|inventory{add*exp*+8}
+Trigger_Box_Editor:-898.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 4&&role=ADMIN}|chat{(private) Вам было выдано 4 exp}|tip{Вам было выдано 4 exp}|inventory{add*exp*+4}
+Trigger_Box_Editor:-901.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 2&&role=ADMIN}|chat{(private) Вам было выдано 2 exp}|tip{Вам было выдано 2 exp}|inventory{add*exp*+2}
+Trigger_Box_Editor:-904.02,905.05,-881.87:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add exp 1&&role=ADMIN}|chat{(private) Вам было выдано 1 exp}|tip{Вам было выдано 1 exp}|inventory{add*exp*+1}
+Trigger_Box_Editor:-895.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 1.000.000&&role=ADMIN}|chat{(private) У вас было удалено 1.000.000₽}|tip{у вас было удалено 1.000.000₽}|inventory{add*Рублей*-1000000}
+Trigger_Box_Editor:-898.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 500.000&&role=ADMIN}|chat{(private) У вас было удалено 500.000₽}|tip{у вас было удалено 500.000₽}|inventory{add*Рублей*-500000}
+Trigger_Box_Editor:-901.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 250.000&&role=ADMIN}|chat{(private) У вас было удалено 250.000₽}|tip{у вас было удалено 250.000₽}|inventory{add*Рублей*-250000}
+Trigger_Box_Editor:-904.02,905.05,-885.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Рублей 100.000&&role=ADMIN}|chat{(private) У вас было удалено 100.000₽}|tip{у вас было удалено 100.000₽}|inventory{add*Рублей*-100000}
+Trigger_Box_Editor:-895.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 1.000.000&&role=ADMIN}|chat{(private) Вам было выдано 1.000.000₽}|tip{Вам было выдано 1.000.000₽}|inventory{add*Рублей*+1000000}
+Trigger_Box_Editor:-898.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 500.000&&role=ADMIN}|chat{(private) Вам было выдано 500.000₽}|tip{Вам было выдано 500.000₽}|inventory{add*Рублей*+500000}
+Trigger_Box_Editor:-901.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 250.000&&role=ADMIN}|chat{(private) Вам было выдано 250.000₽}|tip{Вам было выдано 250.000₽}|inventory{add*Рублей*+250000}
+Trigger_Box_Editor:-904.02,905.05,-888.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Рублей 100.000&&role=ADMIN}|chat{(private) Вам было выдано 100.000₽}|tip{Вам было выдано 100.000₽}|inventory{add*Рублей*+100000}
+Trigger_Box_Editor:-904.02,905.05,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=щовэль}|chat{ешкере}|player{role*ADMIN}|tip{вы стали админчекам}
+Trigger_Box_Editor:-904.02,910.05,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{ishost=true}|chat{/servername <size=35> <color=yellow>UNITY</color> <color=white>RP</color></size>        <size=25><color=green>ДЕНЬГИ; (Рублей)</color>    <color=white>xp; (exp)     lvl;(level)</color></size>}|deactivate{}
+Trigger_Box_Editor:-901.02,899.95,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|inventory{add*exp*+1}|tip{+1 exp}|cooldown{600}
+Trigger_Box_Editor:-904.02,899.95,-892.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;exp>17}|inventory{add*level*+1}|inventory{add*exp*0}|tip{<color=green>Вы повысили уровень!</color>}|chat{(private)<color=green>Вы повысили уровень!</color>}
+Trigger_Box_Editor:-904.02,899.95,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{interactionmenuclick=Аптечка&&isinvehicle=false&&inventory;Аптечка>0}|player{emote*Em_WorkingOnDevice}|tip{Вы использовали аптечку, <color=red> - 1 Аптечка</color>  Не двигайтесь}|calltriggerbox{-904, 903, -900*10}|inventory{add*Аптечка*-1}
+Trigger_Box_Editor:-1670.46,28.27,-442.61:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7499}|calltriggerbox{-1705, 42, -440*1}|player{emote*Em_GrabFromFloor}|cooldown{20}
+Trigger_Box_Editor:-1704.99,41.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-7500₽</color>}|inventory{add*Рублей*-7500}
+Trigger_Box_Editor:-1699.99,43.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Рублей*-7000}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-7000₽</color>}
+Trigger_Box_Editor:-1716.46,28.27,-441.75:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1711.38,28.27,-442.13:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1670.38,28.27,-442.63:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1675.66,28.27,-442.67:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1690.11,28.27,-442.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-1699.99,40.97,-440.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-1700, 44, -440*10}
+Trigger_Box_Editor:-1696.21,28.27,-442.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-1700, 41, -440*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-5996.77,612.01,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5993, 603, 616*-5999, 603, 606*999}
+Trigger_Box_Editor:-5997.77,612.01,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5994, 603, 614*-5999, 603, 606*999}
+Trigger_Box_Editor:-5998.87,612.01,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5995, 603, 612*-5999, 603, 606*999}
+Trigger_Box_Editor:-5999.97,612.01,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-5996, 603, 610*-5999, 603, 606*999}
+Trigger_Box_Editor:-6000.87,612.01,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-5997, 603, 608*-5999, 603, 606*999}
+Trigger_Box_Editor:-5992.98,603.00,615.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>999999&&inventory;vehicles!=marock}|header{<color=green>+marock</color>}|tip{<color=red>-1.000.000₽</color>}|inventory{add*Рублей*-1000000}|inventory{add*vehicles*marock}
+Trigger_Box_Editor:-5993.98,603.00,613.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>749999&&inventory;vehicles!=zupra}|header{<color=green>+zupra</color>}|tip{<color=red>-750.000₽</color>}|inventory{add*Рублей*-750000}|inventory{add*vehicles*zupra}
+Trigger_Box_Editor:-5994.98,603.00,611.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>499999&&inventory;vehicles!=king}|header{<color=green>+king</color>}|tip{<color=red>-500.000₽</color>}|inventory{add*Рублей*-500000}|inventory{add*vehicles*king}
+Trigger_Box_Editor:-5995.98,603.00,609.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>249999&&inventory;vehicles!=elissan}|header{<color=green>+elissan</color>}|tip{<color=red>-250.000₽</color>}|inventory{add*Рублей*-250000}|inventory{add*vehicles*elissan}
+Trigger_Box_Editor:-5996.98,603.00,607.96:0.00,110.00,0.00:1.60,0.90,4.00:mode{onclick}|ifcondition{inventory;Рублей>99999&&inventory;vehicles!=pride}|header{<color=green>+pride</color>}|tip{<color=red>-100.000₽</color>}|inventory{add*Рублей*-100000}|inventory{add*vehicles*pride}
+Trigger_Box_Editor:-1477.04,28.22,-445.59:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|npcanimation{Sitting*1*false}
+Npc_Char4_Editor:-1477.08,27.43,-445.28:0.00,0.00,0.00:1.00,1.00,1.00:animation{Rapping}
+Chair_Plastic_Editor:-1477.17,27.13,-445.23:0.00,0.00,0.00:1.00,1.00,1.00:color{0.80,0.80,0.80}
+Table_Plastic_Editor:-1476.77,27.13,-442.74:0.00,0.00,0.00:1.00,1.00,1.00:color{0.80,0.80,0.80}
+Glass_Scalable_Editor:-1498.55,34.53,-419.36:270.00,0.00,0.00:0.50,37.40,15.30:color{0.72,0.86,1.00}
+Glass_Scalable_Editor:-1457.26,34.53,-419.36:270.00,0.00,0.00:0.50,37.40,15.30:color{0.72,0.86,1.00}
+Glass_Scalable_Editor:-1498.05,34.53,-457.10:90.00,90.00,0.00:0.50,40.30,15.30:color{0.72,0.86,1.00}
+Glass_Scalable_Editor:-1479.56,37.23,-418.89:90.00,90.00,0.00:0.50,4.30,9.80:color{0.72,0.86,1.00}
+Glass_Scalable_Editor:-1474.56,34.53,-418.89:90.00,90.00,0.00:0.50,17.70,15.30:color{0.72,0.86,1.00}
+Glass_Scalable_Editor:-1498.05,34.53,-418.89:90.00,90.00,0.00:0.50,17.70,15.30:color{0.72,0.86,1.00}
+Block_Scalable_Editor:-1498.49,31.83,-419.33:0.00,270.00,90.00:1.00,37.30,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1457.30,31.83,-419.33:0.00,270.00,90.00:1.00,37.30,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1498.07,31.83,-457.14:90.00,90.00,0.00:1.00,40.30,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1477.89,42.13,-438.04:0.00,0.00,0.00:42.30,0.10,39.30:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1498.07,31.83,-418.94:90.00,90.00,0.00:1.00,40.30,1.00:color{1.00,1.00,1.00}
+Door_Editor:-1479.44,27.13,-418.62:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
+Door_Editor:-1475.56,27.13,-418.62:0.00,180.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1479.92,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1475.02,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1498.52,27.13,-418.89:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1498.53,27.13,-457.22:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1457.25,27.13,-457.13:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1457.31,27.13,-418.88:0.00,0.00,0.00:1.00,15.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-1477.89,27.03,-438.04:0.00,0.00,0.00:42.30,0.10,39.30:color{1.00,1.00,1.00}
+Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
+Trigger_Box_Editor:-1745.01,5.00,-1886.05:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|draw{dollar}
+Trigger_Box_Editor:-1745.01,5.00,-1886.55:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР&&inventory;обычная руда>0}|inventory{remove*обычная руда}|inventory{add*Рублей*+100}|tip{<color=green>+100₽</color>}|player{emote*Em_GrabFromFloor}
+Trigger_Box_Editor:-1727.33,4.82,-1876.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|inventory{add*необычная руда*1}|tip{<color=green>Вы подобрали</color> <color=blue>необычную руду</color>}|player{emote*Em_GrabFromFloor}|draw{wrench}|cooldown{5}
+Trigger_Box_Editor:-1721.29,4.92,-1868.07:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|inventory{add*обычная руда*1}|tip{<color=green>Вы подобрали</color> <color=orange>обычную руду</color>}|player{emote*Em_GrabFromFloor}|draw{wrench1}|cooldown{5}
+Trigger_Box_Editor:-1745.01,5.00,-1885.55:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР&&inventory;необычная руда>0}|inventory{remove*необычная руда}|inventory{add*Рублей*+500}|tip{<color=green>+500₽</color>}|player{emote*Em_GrabFromFloor}
+Trigger_Box_Editor:-1768.95,4.61,-1856.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role=ШАХТЁР}|tip{<color=red>Вы уволились с работы шахтёра...</color>}|player{role*БЕЗРАБОТНЫЙ}|player{mask*0}|chat{/heistbag}|player{emote*Em_GrabFromFloor}|draw{halo1}
+Trigger_Box_Editor:-1656.63,8.18,1293.39:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{подъезд}|teleport{-1521.8, 17.1, -1868.8}
+Building_Shop_Close3_Editor:-1663.67,6.20,1297.61:0.00,0.00,0.00:3.00,3.00,3.20: 
+Trigger_Box_Editor:-1526.18,17.50,-1868.20:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false}|tip{дом}|teleport{-1653.9, 6.9, 1298.5}|draw{halo2}
+UI_Scalable_Editor:-1517.96,10.00,-1873.81:0.00,0.00,0.00:14.80,15.30,1.00:insert text 
+Building_Shop_Close1_Editor:-1520.44,16.50,-1874.73:90.00,180.00,0.00:1.10,1.10,1.10: 
+Trigger_Box_Editor:-1532.09,28.04,-1871.10:0.00,19.00,0.00:3.00,3.00,3.00:mode{enter}|tip{подъезд.}|teleport{-1517.4, 16.5, -1870.5}|draw{halo2}
+Trigger_Box_Editor:1136.61,9.98,-347.67:0.00,0.00,0.00:0.70,4.40,6.70:mode{enter}|tip{выход.}|teleporte{-1614.1, 26.8, -1962.5}
+Building_Shop_Close3_Editor:1139.43,-10.30,-347.94:0.00,0.00,0.00:2.20,2.20,2.20: 
+Point_Light_Editor:-1475.54,33.77,-1460.68:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{54,40,0,1}
+Door_Elevator_Editor:-1619.47,27.04,1642.51:0.00,30.00,0.00:1.00,1.00,1.00: 
+Door_Elevator_Editor:-1363.56,42.33,1380.26:0.00,31.00,0.00:1.00,1.00,1.00: 
+Building10_Editor:-1618.07,15.53,1620.45:0.00,120.00,0.00:1.00,1.00,1.00: 
+Building_Shop_Close2_Editor:-370.70,35.76,-1050.95:0.00,270.00,0.00:9.70,8.20,9.70: 
+Road_NoSidewalk_Mid_Editor:-3.72,-101.20,-0.63:0.00,0.00,0.00:110.00,110.80,110.00: 
+Building_Shop1_Editor:-1266.35,17.63,-849.75:0.00,270.00,0.00:39.20,40.00,39.20: 
+Building_Shop2_Editor:-1324.04,28.41,-1350.86:0.00,270.00,0.00:34.60,34.60,34.60: 
+Building_Shop3_Editor:-1018.59,19.71,-1466.24:0.00,270.00,0.00:34.40,35.10,34.30: 
+Building_Shop4_Editor:-1434.93,22.17,-1960.49:0.00,270.00,0.00:22.60,22.60,22.60: 
+Building_Shop5_Editor:-448.16,17.17,-1701.14:0.00,270.00,0.00:52.70,52.70,52.70: 
+Building_Shop6_Editor:-527.74,35.31,-2106.72:0.00,270.00,0.00:36.00,33.80,36.00: 
+Building_Shop2_Editor:-1324.04,28.41,-1350.86:0.00,270.00,0.00:34.60,34.60,34.60: 
+Trigger_Box_Editor:-1611.90,28.04,-1955.73:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{гараж.}|teleport{1145.5, 8.1, -347.9}|draw{halo2}
+Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
+Point_Light_Editor:-1766.76,11.19,-1862.12:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Point_Light_Editor:-1766.76,11.19,-1855.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Point_Light_Editor:-1766.76,11.19,-1868.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Point_Light_Editor:-1759.46,11.19,-1868.52:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Point_Light_Editor:-1759.66,11.19,-1862.02:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Point_Light_Editor:-1759.66,11.19,-1855.72:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{8,179,0,0}
+Trigger_Box_Editor:-1771.73,4.91,-1869.45:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{выход}|teleporte{-1615.0, 27.0, 1657.3}
+Trigger_Box_Editor:-1618.44,28.04,1642.84:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false}|tip{шахта}|teleport{-1764.2, 3.6, -1863.7}|draw{halo2}
+Trigger_Box_Editor:-1764.95,4.61,-1856.04:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{role!=ШАХТЁР}|tip{<color=green>Вы устроились работать шахтёром!</color>}|player{role*ШАХТЁР}|player{mask*13}|chat{/heistbag}|player{emote*Em_GrabFromFloor}|draw{halo2}
+Trigger_Box_Editor:-1476.49,28.63,-440.20:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false}|inventory{add*camavtosalon*1}|inventory{add*salon*1}|tip{Автосалон}|teleport{-1476, 27, -436}|spawn{pride*-6000, 607, 598*0,0,0}|draw{car2}
+Spotlight_Editor:-1478.02,19.93,-438.01:90.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{100,60,0,1}
+Point_Light_Editor:-1481.11,42.03,-426.25:0.00,0.00,0.00:6.00,0.50,1.00:color{1.00,1.00,1.00} light{26,179,0,1}
+Point_Light_Editor:-1481.11,42.03,-450.45:0.00,0.00,0.00:6.00,0.50,1.00:color{1.00,1.00,1.00} light{26,179,0,1}
+Block_Scalable_Editor:-1490.00,-17.27,-473.30:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-6273.02,954.98,195.31:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-6000.00,600.00,599.98:0.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+Cylinder_Editor:-6000.03,601.00,599.97:0.00,0.00,0.00:7.00,0.10,7.00:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-6000.00,620.00,599.98:0.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+Block_Scalable_Editor:-5999.10,620.00,579.80:90.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+Block_Scalable_Editor:-5999.24,620.00,618.47:90.00,0.00,0.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+Block_Scalable_Editor:-6019.20,620.00,599.48:0.00,180.00,90.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+Block_Scalable_Editor:-5979.59,620.00,600.37:0.00,180.00,90.00:40.00,1.00,40.00:color{0.00,0.00,0.00}
+UI_Scalable_Editor:-6002.05,605.00,606.98:0.00,128.00,0.00:1.00,1.00,1.00:<size=556><font="pricedown">ВЫХОД</size>
+Block_Scalable_Editor:-6005.98,605.00,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,1.00,0.00}
+Block_Scalable_Editor:-6005.28,605.00,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.00,0.00}
+Block_Scalable_Editor:-6006.68,605.00,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,0.00,1.00}
+Block_Scalable_Editor:-6005.28,604.20,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.00,1.00}
+Block_Scalable_Editor:-6005.98,604.20,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,1.00,1.00}
+Block_Scalable_Editor:-6006.68,604.20,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,1.00,0.00}
+Block_Scalable_Editor:-6005.28,603.40,604.25:0.00,157.00,0.00:0.40,0.40,0.10:color{1.00,0.30,0.00}
+Block_Scalable_Editor:-6005.98,603.40,603.95:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,0.00,0.00}
+Block_Scalable_Editor:-6006.68,603.40,603.65:0.00,157.00,0.00:0.40,0.40,0.10:color{0.00,1.00,1.00}
+Block_Scalable_Editor:-5980.11,601.00,582.48:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,0.00,0.00}
+Block_Scalable_Editor:-6017.12,601.00,581.78:0.00,0.00,0.00:1.00,1.00,1.00:color{0.00,1.00,0.00}
+Block_Scalable_Editor:-6017.60,601.00,617.34:0.00,0.00,0.00:1.00,1.00,1.00:color{0.00,0.00,1.00}
+Block_Scalable_Editor:-5981.09,601.00,616.54:0.00,0.00,0.00:1.00,1.00,1.00:color{1.00,1.00,0.00}
+Trigger_Box_Editor:-6000.24,618.49,603.26:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;camavtosalon>0}|camsequence{1;-6006, 605, 609;10, 150, 0*1;-1485, 5, -430;10, 150, 0}
+Spotlight_Editor:-6000.01,619.80,600.03:90.00,270.00,0.00:1.00,1.00,1.00:color{1.00,1.00,1.00} light{100,53,1,1}
+Trigger_Box_Editor:-6006.15,605.16,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,0,1}|tip{синий}
+Trigger_Box_Editor:-6005.45,605.16,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,1,0}|tip{Зелёный}
+Trigger_Box_Editor:-6004.75,604.46,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0,1}|tip{розовый}
+Trigger_Box_Editor:-6006.15,604.46,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,1,0}|tip{желтый}
+Trigger_Box_Editor:-6005.45,604.36,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,1,1}|tip{Белый}
+Trigger_Box_Editor:-6004.75,605.26,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0,0}|tip{красный}
+Trigger_Box_Editor:-6004.75,603.66,603.04:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*1,0.3,0}|tip{оранжевый}
+Trigger_Box_Editor:-6005.45,603.56,602.64:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,0,0}|tip{чёрный}
+Trigger_Box_Editor:-6006.15,603.66,602.44:0.00,157.00,0.00:0.60,0.50,3.00:mode{onclick}|vehicle{paint*0,1,1}|tip{голубой}
+Trigger_Box_Editor:-6000.50,605.35,605.71:0.00,128.00,0.00:1.20,0.70,4.70:mode{onclick}|tip{ВЫХОД}|inventory{add*camavtosalon*-999}|inventory{remove*camavtosalon}|inventory{remove*salon}|chat{/despawnvehicle}
+Block_Scalable_Editor:-6000.79,602.60,606.30:0.00,110.00,0.00:2.00,0.80,0.10:color{0.00,1.00,0.00}
+UI_Scalable_Editor:-6000.86,602.69,606.31:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">КУПИТЬ</size>
+Block_Scalable_Editor:-6000.79,603.50,606.30:0.00,110.00,0.00:2.00,1.20,0.10:color{0.00,0.00,0.00}
+UI_Scalable_Editor:-6002.68,602.20,605.86:20.00,148.00,0.00:1.00,1.00,1.00:<color=yellow><size=470><font="pricedown">НАЗАД</size></color>
+UI_Scalable_Editor:-6004.30,602.20,604.59:20.00,148.00,0.00:1.00,1.00,1.00:<color=yellow><size=470><font="pricedown">ВПЕРЁД</size></color>
+UI_Scalable_Editor:-6000.96,603.99,609.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Pride</size>
+UI_Scalable_Editor:-6000.96,601.99,609.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">100.000</size>
+UI_Scalable_Editor:-5999.96,601.99,611.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">250.000</size>
+UI_Scalable_Editor:-5999.96,603.99,611.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Elissan</size>
+UI_Scalable_Editor:-5998.96,603.99,613.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">King</size>
+UI_Scalable_Editor:-5998.96,601.99,613.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">500.000</size>
+UI_Scalable_Editor:-5997.96,603.99,615.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Zupra</size>
+UI_Scalable_Editor:-5997.96,601.99,615.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">750.000</size>
+UI_Scalable_Editor:-5996.96,603.99,617.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=470><font="pricedown">Marock</size>
+UI_Scalable_Editor:-5996.96,601.99,617.01:0.00,110.00,0.00:1.00,1.00,1.00:<size=400><font="pricedown">1.000.000</size>
+Trigger_Box_Editor:-6000.87,605.71,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-6001, 602, 609*-6001, 603.5, 606.4*999}
+Trigger_Box_Editor:-6000.87,608.71,608.84:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=1}|transform{-6001, 604, 609*-6001, 604, 606.4*999}
+Trigger_Box_Editor:-5999.97,605.71,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-6000, 602, 611*-6001, 604, 606.4*999}
+Trigger_Box_Editor:-5999.97,608.71,611.34:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=2}|transform{-6000, 602, 611*-6001, 603.5, 606.4*999}
+Trigger_Box_Editor:-5998.87,605.71,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5999, 602, 613*-6001, 604, 606.4*999}
+Trigger_Box_Editor:-5998.87,608.71,614.13:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=3}|transform{-5999, 602, 613*-6001, 603.5, 606.4*999}
+Trigger_Box_Editor:-5997.77,605.71,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5998, 602, 615*-6001, 604, 606.4*999}
+Trigger_Box_Editor:-5997.77,608.71,616.93:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=4}|transform{-5998, 602, 615*-6001, 603.5, 606.4*999}
+Trigger_Box_Editor:-5996.77,605.71,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5997, 602, 617*-6001, 604, 606.4*999}
+Trigger_Box_Editor:-5996.77,608.71,619.73:0.00,110.00,0.00:3.00,3.00,0.10:mode{loop}|ifcondition{inventory;salon=5}|transform{-5997, 602, 617*-6001, 603.5, 606.4*999}
+Trigger_Box_Editor:-6005.99,600.65,595.98:20.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=1}|spawn{elissan*-6000, 606, 598*0,0,0}|inventory{add*salon*2}|tip{Elissan}
+Trigger_Box_Editor:-6006.68,604.97,596.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=1}|transform{-6006, 601, 596*-6001.5, 600.8, 600.3*999}
+Trigger_Box_Editor:-6011.12,604.97,593.29:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=2}|transform{-6009, 601, 594*-6000, 600.7, 601.6*999}
+Trigger_Box_Editor:-6009.00,600.95,593.98:20.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=2}|spawn{pride*-6000, 606, 598*0,0,0}|inventory{add*salon*1}|tip{pride}
+Trigger_Box_Editor:-6011.00,600.95,592.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=2}|spawn{King*-6000, 606, 598*0,0,0}|inventory{add*salon*3}|tip{King}
+Trigger_Box_Editor:-6011.12,607.97,593.29:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=2}|transform{-6011, 601, 593*-6001.5, 600.8, 600.3*999}
+Trigger_Box_Editor:-6014.00,600.95,590.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=3}|spawn{Elissan*-6000, 606, 598*0,0,0}|inventory{add*salon*2}|tip{Elissan}
+Trigger_Box_Editor:-6016.00,600.95,588.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=3}|spawn{zupra*-6000, 606, 598*0,0,0}|inventory{add*salon*4}|tip{king}
+Trigger_Box_Editor:-6013.94,604.97,590.16:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=3}|transform{-6014, 601, 591*-6000, 600.7, 601.6*999}
+Trigger_Box_Editor:-6014.02,607.97,590.28:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=3}|transform{-6016, 601, 589*-6001.5, 600.8, 600.3*999}
+Trigger_Box_Editor:-6019.01,600.95,585.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=4}|spawn{king*-6000, 606, 598*0,0,0}|inventory{add*salon*3}|tip{king}
+Trigger_Box_Editor:-6021.01,600.95,583.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=4}|spawn{marock*-6000, 606, 598*0,0,0}|inventory{add*salon*5}|tip{Marock}
+Trigger_Box_Editor:-6017.89,604.97,585.25:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=4}|transform{-6019, 601, 586*-6000, 600.7, 601.6*999}
+Trigger_Box_Editor:-6017.91,607.97,585.23:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=4}|transform{-6021, 601, 584*-6001.5, 600.8, 600.3*999}
+Trigger_Box_Editor:-6024.01,600.95,580.98:19.00,148.00,0.00:1.20,0.60,11.60:mode{onclick}|chat{/despawnvehicle}|ifcondition{inventory;salon=5}|spawn{zupra*-6000, 606, 598*0,0,0}|inventory{add*salon*4}|tip{Zupra}
+Trigger_Box_Editor:-6024.55,604.97,580.44:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{inventory;salon=5}|transform{-6024, 601, 581*-6000, 600.7, 601.6*999}
+Trigger_Box_Editor:-901.02,899.95,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{interactionmenuclick=Канистра&&isinvehicle=true&&inventory;Канистра>0}|vehicle{fuel*1000}|tip{Вы заправили машину, <color=red> - 1 Канистра</color>}|inventory{add*Канистра*-1}
+Trigger_Box_Editor:-905.83,28.64,-770.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-894.99,41.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-895, 45, -770*10}
+Trigger_Box_Editor:-894.99,44.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Деньги*-7500}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-7500₽</color>}
+Trigger_Box_Editor:-889.99,41.99,-770.00:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-8000₽</color>}|inventory{add*Деньги*-8000}
+Trigger_Box_Editor:-900.39,28.64,-770.76:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-879.20,28.64,-769.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-885.52,28.64,-770.11:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-865.22,28.64,-770.92:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-895, 42, -770*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-905.87,28.64,-770.72:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>7999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-890, 42, -770*1}|cooldown{20}
+Trigger_Box_Editor:-451.05,47.97,-945.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|tip{Идет заправка... пожалуйста, не двигайтесь.}|calltriggerbox{-451, 51, -945*10}
+Trigger_Box_Editor:-451.05,50.97,-945.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|vehicle{fuel*1000}|inventory{add*Рублей*-10000}|tip{<color=green>Вы заправили ваш транспорт!</color> <color=red>-10.00₽</color>}
+Trigger_Box_Editor:-451.05,47.97,-949.02:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|inventory{add*Канистра*+1}|tip{<color=green>Вы купили канистру</color>  <color=red>-11.000₽</color>}|inventory{add*Рублей*-11000}
+Trigger_Box_Editor:-454.03,36.28,-944.42:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-454.62,36.28,-949.46:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.22,36.28,-948.21:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.04,36.28,-944.12:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.66,36.28,-933.40:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.84,36.28,-929.14:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-454.78,36.28,-933.34:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-454.58,36.28,-930.36:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-453.05,36.28,-962.91:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-452.92,36.28,-958.93:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.09,36.28,-962.77:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-438.32,36.28,-958.05:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=true}|calltriggerbox{-451, 48, -944*1}|draw{jerrycan}|cooldown{20}
+Trigger_Box_Editor:-439.71,36.28,-929.13:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{isinvehicle=false&&inventory;Рублей>10999}|player{emote*Em_GrabFromFloor}|calltriggerbox{-451, 42, -949*1}|cooldown{20}
+Trigger_Box_Editor:-904.02,904.95,-874.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Аптечка&&role=ADMIN}|chat{(private) Вам было выдана 1 Аптечка}|tip{Вам было выдано 1 Аптечка}|inventory{add*Аптечка*+1}
+Trigger_Box_Editor:-904.02,908.05,-874.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Аптечка 1&&role=ADMIN}|chat{(private) Вам было выдана 1 Аптечка}|tip{Вам было выдано 1 Аптечка}|inventory{add*Аптечка*+1}
+Trigger_Box_Editor:-904.02,904.95,-871.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Аптечка&&role=ADMIN}|chat{(private) У вас было удалено 1 Аптечка}|tip{У вас было удалено 1 Аптечка}|inventory{add*Аптечка*-1}
+Trigger_Box_Editor:-904.02,908.05,-871.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Аптечка 1&&role=ADMIN}|chat{(private) У вас было удалено 1 Аптечка}|tip{У вас было удалено 1 Аптечка}|inventory{add*Аптечка*-1}
+Trigger_Box_Editor:-904.02,904.95,-867.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Канистра&&role=ADMIN}|chat{(private) Вам было выдана 1 Канистра}|tip{Вам было выдано 1 Канистра}|inventory{add*Канистра*+1}
+Trigger_Box_Editor:-904.02,904.95,-864.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Канистра&&role=ADMIN}|chat{(private) У вас было удалено 1 Канистра}|tip{У вас было удалено 1 Канистра}|inventory{add*Канистра*-1}
+Trigger_Box_Editor:-904.02,908.05,-867.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/add Канистра 1&&role=ADMIN}|chat{(private) Вам было выдана 1 Канистра}|tip{Вам было выдано 1 Канистра}|inventory{add*Канистра*+1}
+Trigger_Box_Editor:-904.02,908.05,-864.98:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|ifcondition{chat=/remove Канистра 1&&role=ADMIN}|chat{(private) У вас было удалено 1 Канистра}|tip{У вас было удалено 1 Канистра}|inventory{add*Канистра*-1}
+Trigger_Box_Editor:-904.02,903.05,-899.97:0.00,0.00,0.00:3.00,3.00,3.00:mode{enter}|ifcondition{speed=0&&emote=Em_WorkingOnDevice}|player{heal*200}|effect{flash}|tip{вы излечились}|player{emote*Em_GrabFromFloor}
+Road_NoSidewalk_Editor:-1775.28,26.97,-1603.92:0.00,0.00,0.00:0.70,0.80,0.50: 
+Road_NoSidewalk_Editor:-1771.64,27.00,-1339.44:0.00,1.00,0.00:0.70,0.80,1.70: 
+Road_NoSidewalk_Editor:-1768.50,27.00,-1144.81:0.00,1.00,0.00:0.70,0.80,1.70: 
+Road_NoSidewalk_Editor:-1765.60,26.30,-949.86:0.00,1.00,0.00:0.70,0.80,1.70: 
+Road_NoSidewalk_Editor:-1763.45,26.30,-759.88:0.00,1.00,0.00:0.70,0.80,1.70: 
+Building_Shop_Close3_Editor:-1736.55,-37.40,-1870.87:0.00,0.00,0.00:3.00,2.90,2.90: 
+Road_NoSidewalk_Editor:-1442.82,26.17,-1861.90:0.00,20.00,0.00:0.90,1.00,5.90: 
+Road_NoSidewalk_Editor:-1690.91,24.67,-1920.94:0.00,20.00,0.00:0.90,1.00,3.50: 
+Road_NoSidewalk_Editor:-1528.04,26.17,-1450.43:0.00,11.00,0.00:0.90,1.00,0.50: 
+Road_NoSidewalk_Editor:-1499.59,26.17,-1236.88:0.00,7.00,0.00:0.90,1.00,3.00: 
+Road_NoSidewalk_Editor:-1372.26,26.07,-1069.23:0.00,97.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1527.53,26.17,-1051.36:0.00,97.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-1659.72,26.17,-1032.86:0.00,98.00,0.00:0.90,1.00,1.80: 
+Road_NoSidewalk_Editor:-1274.67,26.07,-1123.09:0.00,187.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1298.52,26.17,-1317.49:0.00,187.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1315.24,26.17,-1460.12:0.00,186.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1324.20,26.07,-1527.42:0.00,190.00,0.00:0.90,1.00,0.40: 
+Road_NoSidewalk_Editor:-1305.49,26.17,-1627.90:0.00,112.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-1231.32,26.17,-1657.48:0.00,112.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-1156.52,26.17,-1687.14:0.00,111.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-1081.30,26.17,-1716.03:0.00,111.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-1147.73,26.17,-2022.21:0.00,200.00,0.00:0.90,1.00,5.20: 
+Road_NoSidewalk_Editor:-1479.33,26.07,-2218.22:0.00,292.00,0.00:0.90,1.00,5.30: 
+Road_NoSidewalk_Editor:-1157.84,26.17,-2348.20:0.00,292.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1039.76,26.17,-2393.94:0.00,291.00,0.00:0.90,1.00,1.40: 
+Trigger_Box_Editor:-1516.76,17.70,-1874.64:0.00,0.00,0.00:4.80,6.60,3.00:mode{enter}|tip{улица}|teleport{-1536.9, 26.8, -1875.7}
+Road_NoSidewalk_Editor:-1000.21,26.17,-1611.76:0.00,199.00,0.00:0.90,1.00,2.20: 
+Road_NoSidewalk_Editor:-915.54,26.17,-1375.52:0.00,200.00,0.00:0.90,1.00,2.20: 
+Road_NoSidewalk_Editor:-862.66,26.17,-1230.18:0.00,200.00,0.00:0.90,1.00,0.60: 
+Road_NoSidewalk_Editor:-849.27,26.17,-1191.37:0.00,196.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-844.20,26.17,-1093.60:0.00,180.00,0.00:0.90,1.00,1.20: 
+Road_NoSidewalk_Editor:-844.45,26.17,-1161.20:0.00,0.00,0.00:0.90,1.00,0.30: 
+Road_Editor:-1482.09,24.14,-1967.28:0.00,20.00,0.00:0.90,1.10,0.90: 
+Road_NoSidewalk_Editor:-1491.13,26.17,-1927.07:0.00,90.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1487.68,26.17,-1932.27:0.00,102.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1486.10,26.27,-1939.18:0.00,134.00,0.00:0.50,1.00,0.20: 
+Road_NoSidewalk_Editor:-1475.85,26.07,-1918.25:0.00,59.00,0.00:0.50,1.00,0.30: 
+Road_NoSidewalk_Editor:-1476.65,26.17,-1923.12:0.00,60.00,0.00:0.50,1.00,0.30: 
+Road_NoSidewalk_Editor:-1485.67,26.17,-1929.34:0.00,98.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1526.89,25.77,-1940.73:0.00,28.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1570.28,25.47,-2035.30:0.00,20.00,0.00:0.90,0.70,1.40: 
+Road_NoSidewalk_Editor:-1653.69,25.97,-2003.91:0.00,20.00,0.00:1.10,0.70,1.40: 
+Road_NoSidewalk_Editor:-1540.34,26.07,-1956.44:0.00,51.00,0.00:0.50,0.10,0.20: 
+Road_NoSidewalk_Editor:-1598.84,25.47,-1979.95:0.00,110.00,0.00:1.40,0.70,0.80: 
+Road_NoSidewalk_Editor:-1625.64,25.97,-2034.88:0.00,110.00,0.00:1.50,0.70,0.80: 
+Road_NoSidewalk_Editor:-1640.72,25.97,-2085.10:0.00,110.00,0.00:0.80,0.70,0.80: 
+Road_NoSidewalk_Editor:-1613.30,25.77,-1911.62:0.00,38.00,0.00:0.50,1.00,0.40: 
+Road_NoSidewalk_Editor:-1611.68,25.77,-1896.69:0.00,354.00,0.00:0.50,1.00,0.20: 
+Road_NoSidewalk_Editor:-1608.19,25.67,-1897.64:0.00,13.00,0.00:0.50,1.00,0.20: 
+Road_NoSidewalk_Editor:-1628.12,25.77,-1930.88:0.00,337.00,0.00:0.60,1.00,0.20: 
+Road_NoSidewalk_Editor:-1652.99,26.07,-1872.69:0.00,288.00,0.00:0.50,1.00,0.20: 
+Road_NoSidewalk_Editor:-1653.92,26.27,-1866.61:0.00,320.00,0.00:0.50,1.00,0.20: 
+Road_NoSidewalk_Editor:-1014.83,26.17,-1745.04:0.00,115.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-991.65,26.17,-1755.98:0.00,115.00,0.00:0.90,1.00,0.70: 
+Road_NoSidewalk_Editor:-940.94,26.27,-1776.75:0.00,108.00,0.00:0.90,0.90,0.50: 
+Road_NoSidewalk_Editor:-896.95,26.27,-1788.71:0.00,101.00,0.00:0.90,0.90,0.50: 
+Road_NoSidewalk_Editor:-743.04,26.37,-1807.07:0.00,96.00,0.00:0.90,0.70,2.30: 
+Road_NoSidewalk_Editor:-480.08,26.37,-1834.88:0.00,96.00,0.00:0.90,0.70,2.30: 
+Road_NoSidewalk_Editor:-216.76,26.37,-1862.56:0.00,96.00,0.00:0.90,0.70,2.30: 
+Road_NoSidewalk_Editor:-39.29,26.37,-1881.28:0.00,96.00,0.00:0.90,0.70,0.80: 
+Road_NoSidewalk_Editor:137.33,26.37,-1939.88:0.00,112.00,0.00:0.90,0.70,2.50: 
+Road_NoSidewalk_Editor:280.71,26.37,-1997.23:0.00,110.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:298.65,26.37,-2002.01:0.00,104.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:398.35,26.37,-2018.14:0.00,98.00,0.00:0.90,0.70,1.40: 
+Road_NoSidewalk_Editor:557.64,26.37,-2042.01:0.00,99.00,0.00:0.90,0.70,1.40: 
+Road_NoSidewalk_Editor:650.49,26.37,-2054.93:0.00,96.00,0.00:0.90,0.70,0.70: 
+Road_NoSidewalk_Editor:689.14,26.37,-2059.17:0.00,98.00,0.00:0.90,0.70,0.30: 
+Road_NoSidewalk_Editor:710.37,26.37,-2063.48:0.00,103.00,0.00:0.90,0.70,0.30: 
+Road_NoSidewalk_Editor:725.20,26.37,-2067.28:0.00,112.00,0.00:0.90,0.70,0.30: 
+Road_NoSidewalk_Editor:745.37,26.37,-2076.88:0.00,118.00,0.00:0.90,0.70,0.30: 
+Road_NoSidewalk_Editor:766.61,26.37,-2090.78:0.00,130.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:782.69,26.37,-2106.17:0.00,137.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:799.74,26.17,-2126.85:0.00,141.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:886.95,24.87,-2266.81:0.00,149.00,0.00:0.90,0.70,2.50: 
+Road_NoSidewalk_Editor:971.42,26.37,-2410.34:0.00,153.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:982.54,26.37,-2432.08:0.00,153.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:955.40,26.37,-2410.99:0.00,117.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:949.11,26.37,-2399.99:0.00,70.00,0.00:0.90,0.70,0.10: 
+Road_NoSidewalk_Editor:944.61,26.37,-2401.60:0.00,70.00,0.00:0.90,0.70,0.10: 
+Road_NoSidewalk_Editor:914.86,26.37,-2394.54:0.00,110.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:888.66,26.37,-2384.96:0.00,110.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:834.10,26.37,-2371.04:0.00,101.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:829.37,26.37,-2370.21:0.00,101.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:770.62,26.37,-2362.58:0.00,93.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:701.95,26.37,-2361.05:0.00,89.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:632.98,26.37,-2362.32:0.00,89.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:495.54,26.37,-2362.92:0.00,90.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:564.43,26.37,-2362.92:0.00,90.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:439.20,26.37,-2363.51:0.00,89.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:393.45,26.37,-2364.26:0.00,89.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:348.17,26.37,-2364.53:0.00,90.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:302.10,26.37,-2364.78:0.00,90.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:256.30,26.37,-2365.13:0.00,89.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:165.31,26.37,-2365.94:0.00,90.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:210.42,26.37,-2365.55:0.00,90.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:119.45,26.37,-2366.24:0.00,89.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:74.03,26.37,-2366.69:0.00,90.00,0.00:0.90,0.70,0.40: 
+Road_NoSidewalk_Editor:-11.61,26.37,-2366.72:0.00,90.00,0.00:0.90,0.70,1.10: 
+Road_NoSidewalk_Editor:-82.54,26.37,-2367.40:0.00,89.00,0.00:0.90,0.70,1.10: 
+Road_NoSidewalk_Editor:-208.57,26.37,-2369.63:0.00,89.00,0.00:0.90,0.70,1.10: 
+Road_NoSidewalk_Editor:-318.02,26.37,-2370.68:0.00,90.00,0.00:0.90,0.70,0.80: 
+Road_NoSidewalk_Editor:-410.02,26.37,-2371.60:0.00,89.00,0.00:0.90,0.70,0.80: 
+Road_NoSidewalk_Editor:-502.16,26.37,-2373.03:0.00,89.00,0.00:0.90,0.70,0.80: 
+Road_NoSidewalk_Editor:-582.45,26.37,-2373.96:0.00,90.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-650.61,26.37,-2374.59:0.00,89.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-727.65,26.37,-2379.13:0.00,84.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-772.54,26.37,-2385.17:0.00,77.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-793.75,26.37,-2390.62:0.00,73.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-834.62,26.37,-2408.17:0.00,65.00,0.00:0.90,0.70,0.60: 
+Road_NoSidewalk_Editor:-865.04,26.37,-2422.41:0.00,65.00,0.00:0.90,0.70,0.10: 
+Road_NoSidewalk_Editor:-879.67,26.37,-2427.36:0.00,74.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-900.43,26.37,-2431.45:0.00,83.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-904.80,26.37,-2431.90:0.00,83.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-924.97,26.37,-2431.67:0.00,99.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-928.12,26.37,-2431.18:0.00,99.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-953.39,26.37,-2425.72:0.00,104.00,0.00:0.90,0.70,0.30: 
+Road_NoSidewalk_Editor:-678.40,26.37,-2325.94:0.00,186.00,0.00:0.90,0.70,0.90: 
+Road_NoSidewalk_Editor:-667.57,26.37,-2223.22:0.00,186.00,0.00:0.90,0.70,0.90: 
+Road_NoSidewalk_Editor:-656.74,25.97,-2120.26:0.00,186.00,0.00:0.90,0.70,0.90: 
+Road_NoSidewalk_Editor:-645.84,26.37,-2017.39:0.00,186.00,0.00:0.90,0.70,0.90: 
+Road_NoSidewalk_Editor:-636.95,26.37,-1925.80:0.00,185.00,0.00:0.90,0.70,0.70: 
+Road_NoSidewalk_Editor:-630.34,25.97,-1857.22:0.00,186.00,0.00:0.90,0.70,0.70: 
+Road_NoSidewalk_Editor:-691.96,26.37,-2375.33:0.00,84.00,0.00:0.90,0.70,0.20: 
+Road_NoSidewalk_Editor:-1478.07,26.17,-1056.48:0.00,93.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1775.15,26.97,-1546.62:0.00,0.00,0.00:0.70,0.80,0.50: 
+Road_NoSidewalk_Editor:-1774.67,26.97,-1489.25:0.00,1.00,0.00:0.70,0.80,0.50: 
+Road_NoSidewalk_Editor:-1773.73,26.97,-1465.20:0.00,1.00,0.00:0.70,0.80,0.50: 
+Road_NoSidewalk_Editor:-1774.47,26.97,-1507.26:0.00,1.00,0.00:0.70,0.80,0.50: 
+Road_NoSidewalk_Editor:-1690.91,26.07,-1920.94:0.00,20.00,0.00:0.90,1.00,3.50: 
+Road_NoSidewalk_Editor:-1603.23,25.97,-1677.22:0.00,20.00,0.00:0.90,1.00,1.00: 
+Road_NoSidewalk_Editor:-1564.08,26.07,-1569.09:0.00,20.00,0.00:0.90,1.00,1.00: 
+Road_NoSidewalk_Editor:-1540.74,26.17,-1505.06:0.00,20.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1535.30,26.17,-1486.91:0.00,15.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-981.63,25.57,-551.38:0.00,227.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-988.21,24.67,-555.62:0.00,250.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-1040.93,25.17,-560.45:0.00,287.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-1047.96,25.17,-558.41:0.00,287.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-1036.52,25.67,-561.73:0.00,287.00,0.00:0.90,1.00,0.10: 
+Road_NoSidewalk_Editor:-1059.74,25.47,-551.79:0.00,307.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1073.49,25.77,-538.25:0.00,322.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1081.12,25.37,-522.95:0.00,350.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1083.32,25.47,-501.61:0.00,358.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1080.90,25.77,-483.23:0.00,14.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1079.49,25.77,-477.98:0.00,14.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1070.09,25.47,-460.92:0.00,44.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1068.47,25.27,-459.07:0.00,44.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1072.46,25.87,-463.28:0.00,44.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1054.02,25.67,-449.00:0.00,67.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1049.54,25.97,-447.02:0.00,67.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1031.50,25.67,-441.96:0.00,83.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1013.66,25.77,-442.03:0.00,100.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-995.69,25.87,-447.95:0.00,117.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-981.09,25.97,-458.62:0.00,136.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-970.61,25.87,-473.60:0.00,155.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-967.59,25.97,-479.76:0.00,155.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-963.76,25.87,-495.96:0.00,176.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-963.40,25.97,-502.32:0.00,178.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-966.15,25.77,-522.43:0.00,195.00,0.00:0.90,1.00,0.30: 
+Road_NoSidewalk_Editor:-912.86,26.07,-884.33:0.00,180.00,0.00:0.50,1.00,1.20: 
+Road_NoSidewalk_Editor:-1761.90,26.30,-612.65:0.00,0.00,0.00:0.70,0.80,0.90: 
+Road_NoSidewalk_Editor:-1760.96,26.30,-510.90:0.00,1.00,0.00:0.70,0.80,0.90: 
+Road_NoSidewalk_Editor:-1759.81,26.30,-450.29:0.00,1.00,0.00:0.70,0.80,0.90: 
+Road_NoSidewalk_Editor:-1701.85,26.28,-406.57:0.00,89.00,0.00:0.70,0.80,0.90: 
+Road_NoSidewalk_Editor:-1598.46,26.30,-404.87:0.00,89.00,0.00:0.70,0.80,0.90: 
+Road_NoSidewalk_Editor:-1523.72,26.30,-403.51:0.00,89.00,0.00:0.70,0.80,0.40: 
+Road_NoSidewalk_Editor:-1478.37,26.30,-405.03:0.00,95.00,0.00:0.70,0.80,0.40: 
+Road_NoSidewalk_Editor:-1443.11,26.30,-413.17:0.00,114.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1414.12,26.30,-428.29:0.00,122.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1385.40,26.30,-446.45:0.00,122.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1356.40,26.30,-463.64:0.00,119.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1327.83,26.30,-481.37:0.00,125.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1299.85,26.30,-499.99:0.00,122.00,0.00:0.70,0.80,0.30: 
+Road_NoSidewalk_Editor:-1275.78,26.30,-512.15:0.00,110.00,0.00:0.70,0.80,0.20: 
+Road_NoSidewalk_Editor:-1521.03,26.17,-1411.53:0.00,7.00,0.00:0.90,1.00,0.20: 
+Road_NoSidewalk_Editor:-1291.76,25.97,-996.45:0.00,270.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1336.13,26.07,-991.85:0.00,282.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1381.21,26.07,-983.93:0.00,278.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1426.49,26.07,-977.61:0.00,278.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1431.10,26.07,-955.88:0.00,352.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1436.71,26.07,-910.25:0.00,354.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1438.70,26.07,-864.87:0.00,1.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1438.25,26.07,-818.89:0.00,0.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1437.38,26.07,-773.03:0.00,2.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1436.03,26.07,-736.99:0.00,2.00,0.00:0.40,1.00,0.30: 
+Road_NoSidewalk_Editor:-1387.45,26.07,-723.14:0.00,92.00,0.00:0.40,1.00,0.50: 
+Road_NoSidewalk_Editor:-1427.21,26.07,-721.79:0.00,92.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1353.19,26.07,-724.21:0.00,92.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1344.50,26.07,-727.16:0.00,125.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1338.44,26.07,-734.28:0.00,155.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1334.53,26.07,-840.34:0.00,180.00,0.00:0.40,1.00,1.60: 
+Road_NoSidewalk_Editor:-1335.49,25.97,-743.63:0.00,170.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1459.32,26.47,-970.99:0.00,288.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1481.12,26.47,-965.20:0.00,282.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1503.51,26.47,-960.50:0.00,282.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1525.50,26.47,-956.80:0.00,277.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1547.54,26.47,-954.10:0.00,277.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1567.75,26.47,-950.32:0.00,284.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1589.79,26.47,-945.21:0.00,282.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1612.17,26.17,-941.82:0.00,95.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1634.53,26.17,-940.96:0.00,90.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1656.93,26.17,-940.96:0.00,90.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1679.89,26.17,-940.97:0.00,90.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1702.72,26.17,-941.02:0.00,90.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1725.22,26.17,-941.25:0.00,89.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1748.27,26.17,-941.65:0.00,89.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1692.70,26.17,-926.26:0.00,180.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1692.79,26.17,-903.79:0.00,179.00,0.00:0.40,1.00,0.20: 
+Road_NoSidewalk_Editor:-1692.83,26.17,-871.02:0.00,180.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1692.87,26.17,-825.99:0.00,180.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1692.83,26.17,-780.74:0.00,180.00,0.00:0.40,1.10,0.40: 
+Road_NoSidewalk_Editor:-1692.81,26.17,-734.80:0.00,180.00,0.00:0.40,1.10,0.40: 
+Road_NoSidewalk_Editor:-1692.81,26.17,-688.92:0.00,180.00,0.00:0.40,1.10,0.40: 
+Road_NoSidewalk_Editor:-1692.81,26.17,-643.10:0.00,180.00,0.00:0.40,1.10,0.40: 
+Road_NoSidewalk_Editor:-1692.70,26.17,-597.52:0.00,180.00,0.00:0.40,1.10,0.40: 
+Road_NoSidewalk_Editor:-1692.78,26.17,-551.92:0.00,180.00,0.00:0.40,1.00,0.40: 
+Road_NoSidewalk_Editor:-1692.73,26.17,-523.30:0.00,180.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1692.34,26.17,-512.10:0.00,183.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1690.59,26.17,-502.06:0.00,198.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1686.06,26.17,-493.37:0.00,218.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1679.67,26.17,-487.58:0.00,243.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1670.43,26.17,-483.96:0.00,257.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1659.91,26.17,-482.40:0.00,268.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1649.56,26.17,-482.54:0.00,275.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1639.15,26.17,-484.54:0.00,289.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1631.03,26.17,-488.48:0.00,310.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1625.47,26.17,-494.86:0.00,330.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1622.30,26.17,-503.71:0.00,351.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1621.34,26.17,-514.07:0.00,359.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1621.33,26.17,-524.29:0.00,2.00,0.00:0.40,1.00,0.10: 
+Road_NoSidewalk_Editor:-1622.03,26.17,-547.24:0.00,2.00,0.00:0.40,1.00,0.30: 
+Road_NoSidewalk_Editor:-1622.81,26.17,-581.33:0.00,1.00,0.00:0.40,1.00,0.30: 
+Road_NoSidewalk_Editor:-1623.13,26.17,-615.76:0.00,0.00,0.00:0.40,1.00,0.30: 
+Road_NoSidewalk_Editor:-1623.04,26.17,-660.34:0.00,0.00,0.00:0.40,1.00,0.50: 
+Road_NoSidewalk_Editor:-1622.99,26.17,-717.76:0.00,0.00,0.00:0.40,1.00,0.50: 
+Road_NoSidewalk_Editor:-1622.91,26.17,-821.30:0.00,0.00,0.00:0.40,1.00,1.30: 
+Road_NoSidewalk_Editor:-1622.99,26.17,-913.41:0.00,0.00,0.00:0.40,1.00,0.50: 
+Road_NoSidewalk_Editor:-1027.34,26.07,-341.27:0.00,182.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1022.29,26.17,-146.62:0.00,181.00,0.00:0.90,1.00,1.70: 
+Road_NoSidewalk_Editor:-1020.74,26.17,35.57:0.00,180.00,0.00:0.90,1.00,1.50: 
+Road_NoSidewalk_Editor:-1026.17,26.17,171.15:0.00,174.00,0.00:0.90,1.00,0.90: 
+Road_NoSidewalk_Editor:-1031.96,26.17,225.45:0.00,173.00,0.00:0.90,1.00,0.90: 
+Road_NoSidewalk_Editor:-1052.02,26.17,317.56:0.00,162.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1078.85,26.17,388.03:0.00,155.00,0.00:0.90,1.00,0.60: 
+Road_NoSidewalk_Editor:-1117.50,26.17,454.25:0.00,146.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1164.79,26.17,522.48:0.00,144.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1211.93,26.17,593.77:0.00,149.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1254.81,26.17,672.96:0.00,154.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1291.91,26.17,755.22:0.00,157.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1326.13,26.17,840.00:0.00,159.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1356.25,26.17,924.49:0.00,162.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1381.43,26.17,1011.67:0.00,166.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1402.35,26.17,1099.62:0.00,167.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1423.70,26.17,1188.46:0.00,166.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1448.92,26.17,1275.14:0.00,163.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1473.22,26.17,1363.52:0.00,166.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1495.33,26.17,1452.28:0.00,166.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1514.22,26.17,1541.53:0.00,170.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1527.72,26.17,1631.67:0.00,173.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1536.54,26.17,1722.95:0.00,176.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1541.11,26.17,1814.53:0.00,178.00,0.00:0.90,1.00,0.80: 
+Road_NoSidewalk_Editor:-1548.01,26.17,1904.88:0.00,173.00,0.00:0.90,1.00,0.80: 
+Trigger_Box_Editor:-1609.46,35.63,-1954.38:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*5,13*-1612.0,-1955.8}|deactivate{0,1}
+Trigger_Box_Editor:-910.13,41.39,-773.31:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-910.1,-773.3}|deactivate{0,1}
+Trigger_Box_Editor:-449.24,47.27,-955.37:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-449.2,-955.4}|deactivate{0,1}
+Trigger_Box_Editor:-1715.57,41.20,-438.35:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,12*-1715,-438.3}|deactivate{0,1}
+Trigger_Box_Editor:-1473.79,43.63,-427.41:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*6,6*-1473.8,-427.4}|deactivate{0,1}
+Trigger_Box_Editor:-1528.50,46.84,-1870.80:0.00,0.00,0.00:3.00,3.00,3.00:mode{loop}|minimap{icon*0,13*-1528,-1870}|deactivate{0,1}
+Spawn_Point_Editor:-1653.77,6.74,1299.31:0.00,270.00,0.00:1.00,1.00,1.00: 
 Vehicle_Pride:-1546.13, 27.41, -1888.55:0.41, 359.87, 359.90:0,0,0:color{0.80,0.00,0.00} 
 
